@@ -72,29 +72,29 @@ rahata,maize,2016,25,1713,1713,1713,2016-06-01,Ahmadnagar,6,maize_rahata,multipl
 rahata,maize,2016,3,1751,1751,1751,2016-07-01,Ahmadnagar,7,maize_rahata,multiplicative,1600.25,1719.7988698090135
 rahata,maize,2016,4,1425,1425,1425,2016-08-01,Ahmadnagar,8,maize_rahata,multiplicative,1543.125,1458.6785515256827
 rahata,maize,2016,3,1581,1581,1581,2016-09-01,Ahmadnagar,9,maize_rahata,multiplicative,1380.125,1552.7251872291863
-savner,soybean,2014,4198,3109,3303,3208,2014-11-01,Nagpur,11,soybean_savner,multiplicative,3053.5,3192.9514744890466
-savner,soybean,2014,2719,3065,3234,3151,2014-12-01,Nagpur,12,soybean_savner,multiplicative,3126.75,3158.838467385069
-savner,soybean,2015,1238,3106,3246,3174,2015-01-01,Nagpur,1,soybean_savner,multiplicative,3131.5,3215.2925206092773
-savner,soybean,2015,1082,3032,3155,3093,2015-02-01,Nagpur,2,soybean_savner,multiplicative,3097.625,3060.5249727248934
-savner,soybean,2015,324,2942,3073,3008,2015-03-01,Nagpur,3,soybean_savner,multiplicative,3130.0,2993.889661865041
-savner,soybean,2015,126,2947,3213,3080,2015-04-01,Nagpur,4,soybean_savner,multiplicative,3175.75,3087.661846888611
-savner,soybean,2015,60,3425,3583,3504,2015-05-01,Nagpur,5,soybean_savner,multiplicative,3199.375,3549.5856938295237
-savner,soybean,2015,434,2975,3232,3129,2015-06-01,Nagpur,6,soybean_savner,multiplicative,3196.0,3096.1469898662112
-savner,soybean,2015,310,3089,3214,3161,2015-07-01,Nagpur,7,soybean_savner,multiplicative,3104.25,3146.1719485224053
-savner,soybean,2015,55,2783,2955,2900,2015-08-01,Nagpur,8,soybean_savner,multiplicative,3076.625,2907.2140766159
-savner,soybean,2015,10,2750,3000,2950,2015-09-01,Nagpur,9,soybean_savner,multiplicative,3143.25,2988.3783666658373
-savner,soybean,2015,1584,3327,3562,3462,2015-10-01,Nagpur,10,soybean_savner,multiplicative,3213.875,3425.6506484234014
-savner,soybean,2015,952,3135,3478,3361,2015-11-01,Nagpur,11,soybean_savner,multiplicative,3286.125,3345.2337611464104
-savner,soybean,2015,571,3030,3341,3265,2015-12-01,Nagpur,12,soybean_savner,multiplicative,3299.75,3273.1220552244527
-savner,soybean,2016,248,3026,3214,3163,2016-01-01,Nagpur,1,soybean_savner,multiplicative,3273.375,3204.149414835269
-savner,soybean,2016,1013,3202,3460,3358,2016-02-01,Nagpur,2,soybean_savner,multiplicative,3301.5,3322.7425989040385
-savner,soybean,2016,419,3114,3348,3254,2016-03-01,Nagpur,3,soybean_savner,multiplicative,3377.875,3238.735691392568
-savner,soybean,2016,676,3306,3725,3597,2016-04-01,Nagpur,4,soybean_savner,multiplicative,3412.125,3605.947942616342
-savner,soybean,2016,242,3232,3577,3442,2016-05-01,Nagpur,5,soybean_savner,multiplicative,3417.0,3486.77909764875
-savner,soybean,2016,192,3179,3449,3353,2016-06-01,Nagpur,6,soybean_savner,multiplicative,3363.125,3317.7950965233
-savner,soybean,2016,77,3144,3367,3298,2016-07-01,Nagpur,7,soybean_savner,multiplicative,3198.5,3282.529290169849
-savner,soybean,2016,21,3100,3127,3122,2016-08-01,Nagpur,8,soybean_savner,multiplicative,3002.0,3129.76632661891
-savner,soybean,2016,1,2600,2600,2600,2016-09-01,Nagpur,9,soybean_savner,multiplicative,2824.375,2633.8250011292125
+savner,soybean,2014,4198,3109,3303,3208,2014-11-01,Nagpur,11,soybean_savner,additive,3053.5,3196.096875
+savner,soybean,2014,2719,3065,3234,3151,2014-12-01,Nagpur,12,soybean_savner,additive,3126.75,3158.721875
+savner,soybean,2015,1238,3106,3246,3174,2015-01-01,Nagpur,1,soybean_savner,additive,3131.5,3211.367708333333
+savner,soybean,2015,1082,3032,3155,3093,2015-02-01,Nagpur,2,soybean_savner,additive,3097.625,3059.813541666667
+savner,soybean,2015,324,2942,3073,3008,2015-03-01,Nagpur,3,soybean_savner,additive,3130.0,2996.096875
+savner,soybean,2015,126,2947,3213,3080,2015-04-01,Nagpur,4,soybean_savner,additive,3175.75,3087.721875
+savner,soybean,2015,60,3425,3583,3504,2015-05-01,Nagpur,5,soybean_savner,additive,3199.375,3541.367708333333
+savner,soybean,2015,434,2975,3232,3129,2015-06-01,Nagpur,6,soybean_savner,additive,3196.0,3095.813541666667
+savner,soybean,2015,310,3089,3214,3161,2015-07-01,Nagpur,7,soybean_savner,additive,3104.25,3149.096875
+savner,soybean,2015,55,2783,2955,2900,2015-08-01,Nagpur,8,soybean_savner,additive,3076.625,2907.721875
+savner,soybean,2015,10,2750,3000,2950,2015-09-01,Nagpur,9,soybean_savner,additive,3143.25,2987.367708333333
+savner,soybean,2015,1584,3327,3562,3462,2015-10-01,Nagpur,10,soybean_savner,additive,3213.875,3428.813541666667
+savner,soybean,2015,952,3135,3478,3361,2015-11-01,Nagpur,11,soybean_savner,additive,3286.125,3349.096875
+savner,soybean,2015,571,3030,3341,3265,2015-12-01,Nagpur,12,soybean_savner,additive,3299.75,3272.721875
+savner,soybean,2016,248,3026,3214,3163,2016-01-01,Nagpur,1,soybean_savner,additive,3273.375,3200.367708333333
+savner,soybean,2016,1013,3202,3460,3358,2016-02-01,Nagpur,2,soybean_savner,additive,3301.5,3324.813541666667
+savner,soybean,2016,419,3114,3348,3254,2016-03-01,Nagpur,3,soybean_savner,additive,3377.875,3242.096875
+savner,soybean,2016,676,3306,3725,3597,2016-04-01,Nagpur,4,soybean_savner,additive,3412.125,3604.721875
+savner,soybean,2016,242,3232,3577,3442,2016-05-01,Nagpur,5,soybean_savner,additive,3417.0,3479.367708333333
+savner,soybean,2016,192,3179,3449,3353,2016-06-01,Nagpur,6,soybean_savner,additive,3363.125,3319.813541666667
+savner,soybean,2016,77,3144,3367,3298,2016-07-01,Nagpur,7,soybean_savner,additive,3198.5,3286.096875
+savner,soybean,2016,21,3100,3127,3122,2016-08-01,Nagpur,8,soybean_savner,additive,3002.0,3129.721875
+savner,soybean,2016,1,2600,2600,2600,2016-09-01,Nagpur,9,soybean_savner,additive,2824.375,2637.367708333333
 rahata,capsicum,2014,44,2300,2850,2560,2014-11-01,Ahmadnagar,11,capsicum_rahata,multiplicative,2480.375,2468.4998057883367
 rahata,capsicum,2014,30,2818,3727,3182,2014-12-01,Ahmadnagar,12,capsicum_rahata,multiplicative,2614.375,3006.1529086111464
 rahata,capsicum,2015,34,2292,3042,2575,2015-01-01,Ahmadnagar,1,capsicum_rahata,multiplicative,2686.125,2889.3386389156453
@@ -187,29 +187,29 @@ kopargaon,bajri,2016,112,1725,1874,1827,2016-06-01,Ahmadnagar,6,bajri_kopargaon,
 kopargaon,bajri,2016,27,1520,1871,1751,2016-07-01,Ahmadnagar,7,bajri_kopargaon,multiplicative,1728.75,1769.1773197319167
 kopargaon,bajri,2016,207,1467,1758,1606,2016-08-01,Ahmadnagar,8,bajri_kopargaon,multiplicative,1644.75,1583.4160643511173
 kopargaon,bajri,2016,439,1483,1667,1613,2016-09-01,Ahmadnagar,9,bajri_kopargaon,multiplicative,1536.375,1607.0709550960848
-lasalgaon,soybean,2014,8418,1900,3408,3362,2014-11-01,Nasik,11,soybean_lasalgaon,additive,3298.0,3403.5822916666666
-lasalgaon,soybean,2014,7836,1713,3336,3289,2014-12-01,Nasik,12,soybean_lasalgaon,additive,3311.5,3287.8947916666666
-lasalgaon,soybean,2015,4206,2562,3402,3357,2015-01-01,Nasik,1,soybean_lasalgaon,additive,3324.125,3325.2072916666666
-lasalgaon,soybean,2015,2429,2333,3365,3329,2015-02-01,Nasik,2,soybean_lasalgaon,additive,3364.25,3320.315625
-lasalgaon,soybean,2015,376,2000,3305,3281,2015-03-01,Nasik,3,soybean_lasalgaon,additive,3480.0,3322.5822916666666
-lasalgaon,soybean,2015,4425,2893,3750,3691,2015-04-01,Nasik,4,soybean_lasalgaon,additive,3576.125,3689.8947916666666
-lasalgaon,soybean,2015,6734,2789,3956,3881,2015-05-01,Nasik,5,soybean_lasalgaon,additive,3631.25,3849.2072916666666
-lasalgaon,soybean,2015,4258,2478,3651,3574,2015-06-01,Nasik,6,soybean_lasalgaon,additive,3609.75,3565.315625
-lasalgaon,soybean,2015,1998,2980,3517,3477,2015-07-01,Nasik,7,soybean_lasalgaon,additive,3504.0,3518.5822916666666
-lasalgaon,soybean,2015,978,2756,3362,3323,2015-08-01,Nasik,8,soybean_lasalgaon,additive,3465.25,3321.8947916666666
-lasalgaon,soybean,2015,834,2841,3451,3403,2015-09-01,Nasik,9,soybean_lasalgaon,additive,3519.625,3371.2072916666666
-lasalgaon,soybean,2015,8716,2311,3787,3742,2015-10-01,Nasik,10,soybean_lasalgaon,additive,3596.875,3733.315625
-lasalgaon,soybean,2015,6583,2744,3796,3744,2015-11-01,Nasik,11,soybean_lasalgaon,additive,3681.75,3785.5822916666666
-lasalgaon,soybean,2015,4528,2410,3712,3674,2015-12-01,Nasik,12,soybean_lasalgaon,additive,3718.625,3672.8947916666666
-lasalgaon,soybean,2016,2020,2846,3771,3731,2016-01-01,Nasik,1,soybean_lasalgaon,additive,3712.75,3699.2072916666666
-lasalgaon,soybean,2016,2439,2525,3740,3709,2016-02-01,Nasik,2,soybean_lasalgaon,additive,3753.5,3700.315625
-lasalgaon,soybean,2016,2218,2468,3768,3730,2016-03-01,Nasik,3,soybean_lasalgaon,additive,3823.0,3771.5822916666666
-lasalgaon,soybean,2016,3891,2513,4096,4014,2016-04-01,Nasik,4,soybean_lasalgaon,additive,3867.5,4012.8947916666666
-lasalgaon,soybean,2016,4005,2324,3997,3947,2016-05-01,Nasik,5,soybean_lasalgaon,additive,3871.875,3915.2072916666666
-lasalgaon,soybean,2016,2684,2205,3896,3849,2016-06-01,Nasik,6,soybean_lasalgaon,additive,3787.5,3840.315625
-lasalgaon,soybean,2016,575,2515,3678,3625,2016-07-01,Nasik,7,soybean_lasalgaon,additive,3624.5,3666.5822916666666
-lasalgaon,soybean,2016,2249,2282,3531,3444,2016-08-01,Nasik,8,soybean_lasalgaon,additive,3432.125,3442.8947916666666
-lasalgaon,soybean,2016,1395,2321,3274,3213,2016-09-01,Nasik,9,soybean_lasalgaon,additive,3224.375,3181.2072916666666
+lasalgaon,soybean,2014,8418,1900,3408,3362,2014-11-01,Nasik,11,soybean_lasalgaon,multiplicative,3298.0,3399.797782702616
+lasalgaon,soybean,2014,7836,1713,3336,3289,2014-12-01,Nasik,12,soybean_lasalgaon,multiplicative,3311.5,3289.2631091115736
+lasalgaon,soybean,2015,4206,2562,3402,3357,2015-01-01,Nasik,1,soybean_lasalgaon,multiplicative,3324.125,3328.099922050452
+lasalgaon,soybean,2015,2429,2333,3365,3329,2015-02-01,Nasik,2,soybean_lasalgaon,multiplicative,3364.25,3320.651915937497
+lasalgaon,soybean,2015,376,2000,3305,3281,2015-03-01,Nasik,3,soybean_lasalgaon,multiplicative,3480.0,3317.8871282115656
+lasalgaon,soybean,2015,4425,2893,3750,3691,2015-04-01,Nasik,4,soybean_lasalgaon,multiplicative,3576.125,3691.2952677807293
+lasalgaon,soybean,2015,6734,2789,3956,3881,2015-05-01,Nasik,5,soybean_lasalgaon,multiplicative,3631.25,3847.588858349063
+lasalgaon,soybean,2015,4258,2478,3651,3574,2015-06-01,Nasik,6,soybean_lasalgaon,multiplicative,3609.75,3565.037533061164
+lasalgaon,soybean,2015,1998,2980,3517,3477,2015-07-01,Nasik,7,soybean_lasalgaon,multiplicative,3504.0,3516.0906872269475
+lasalgaon,soybean,2015,978,2756,3362,3323,2015-08-01,Nasik,8,soybean_lasalgaon,multiplicative,3465.25,3323.2658289990145
+lasalgaon,soybean,2015,834,2841,3451,3403,2015-09-01,Nasik,9,soybean_lasalgaon,multiplicative,3519.625,3373.703912641551
+lasalgaon,soybean,2015,8716,2311,3787,3742,2015-10-01,Nasik,10,soybean_lasalgaon,multiplicative,3596.875,3732.616241945964
+lasalgaon,soybean,2015,6583,2744,3796,3744,2015-11-01,Nasik,11,soybean_lasalgaon,multiplicative,3681.75,3786.092474253003
+lasalgaon,soybean,2015,4528,2410,3712,3674,2015-12-01,Nasik,12,soybean_lasalgaon,multiplicative,3718.625,3674.2939078370086
+lasalgaon,soybean,2016,2020,2846,3771,3731,2016-01-01,Nasik,1,soybean_lasalgaon,multiplicative,3712.75,3698.8801933780865
+lasalgaon,soybean,2016,2439,2525,3740,3709,2016-02-01,Nasik,2,soybean_lasalgaon,multiplicative,3753.5,3699.6989955578783
+lasalgaon,soybean,2016,2218,2468,3768,3730,2016-03-01,Nasik,3,soybean_lasalgaon,multiplicative,3823.0,3771.9350771804757
+lasalgaon,soybean,2016,3891,2513,4096,4014,2016-04-01,Nasik,4,soybean_lasalgaon,multiplicative,3867.5,4014.321106711419
+lasalgaon,soybean,2016,4005,2324,3997,3947,2016-05-01,Nasik,5,soybean_lasalgaon,multiplicative,3871.875,3913.0206709362924
+lasalgaon,soybean,2016,2684,2205,3896,3849,2016-06-01,Nasik,6,soybean_lasalgaon,multiplicative,3787.5,3839.3479196285452
+lasalgaon,soybean,2016,575,2515,3678,3625,2016-07-01,Nasik,7,soybean_lasalgaon,multiplicative,3624.5,3665.754599136521
+lasalgaon,soybean,2016,2249,2282,3531,3444,2016-08-01,Nasik,8,soybean_lasalgaon,multiplicative,3432.125,3444.275508598437
+lasalgaon,soybean,2016,1395,2321,3274,3213,2016-09-01,Nasik,9,soybean_lasalgaon,multiplicative,3224.375,3185.3396036783147
 malegaon,bajri,2014,3710,1251,1598,1408,2014-11-01,Nasik,11,bajri_malegaon,multiplicative,1407.25,1411.0941134621899
 malegaon,bajri,2014,2282,1251,1530,1365,2014-12-01,Nasik,12,bajri_malegaon,multiplicative,1399.25,1339.5578757361834
 malegaon,bajri,2015,948,1251,1660,1435,2015-01-01,Nasik,1,bajri_malegaon,multiplicative,1388.0,1420.2516137906732
@@ -304,31 +304,31 @@ manmad,wheat(husked),2016,9,1663,1663,1663,2016-06-01,Nasik,6,wheat(husked)_manm
 manmad,wheat(husked),2016,4,1611,1633,1611,2016-07-01,Nasik,7,wheat(husked)_manmad,multiplicative,1702.25,1630.5831622829567
 manmad,wheat(husked),2016,1,1923,1923,1923,2016-08-01,Nasik,8,wheat(husked)_manmad,multiplicative,1731.5,1908.3907353896448
 manmad,wheat(husked),2016,15,1702,1777,1753,2016-09-01,Nasik,9,wheat(husked)_manmad,multiplicative,1783.625,1776.2071634001056
-manmad,maize,2014,20074,976,1198,1130,2014-11-01,Nasik,11,maize_manmad,additive,1163.625,1125.5177083333333
-manmad,maize,2014,71194,1002,1167,1111,2014-12-01,Nasik,12,maize_manmad,additive,1163.125,1100.1635416666666
-manmad,maize,2015,40116,1143,1255,1214,2015-01-01,Nasik,1,maize_manmad,additive,1194.75,1198.121875
-manmad,maize,2015,21711,1194,1255,1232,2015-02-01,Nasik,2,maize_manmad,additive,1248.5,1263.196875
-manmad,maize,2015,9314,1262,1330,1314,2015-03-01,Nasik,3,maize_manmad,additive,1285.0,1309.5177083333333
-manmad,maize,2015,2799,1324,1372,1357,2015-04-01,Nasik,4,maize_manmad,additive,1294.25,1346.1635416666666
-manmad,maize,2015,1414,1213,1300,1260,2015-05-01,Nasik,5,maize_manmad,additive,1306.5,1244.121875
-manmad,maize,2015,1414,1213,1300,1260,2015-05-01,Nasik,5,maize_manmad,additive,1329.5,1291.196875
-manmad,maize,2015,305,1211,1290,1260,2015-06-01,Nasik,6,maize_manmad,additive,1306.5,1244.121875
-manmad,maize,2015,305,1211,1290,1260,2015-06-01,Nasik,6,maize_manmad,additive,1329.5,1291.196875
-manmad,maize,2015,97,1374,1428,1384,2015-07-01,Nasik,7,maize_manmad,additive,1366.5,1379.5177083333333
-manmad,maize,2015,25,1398,1491,1471,2015-08-01,Nasik,8,maize_manmad,additive,1392.375,1460.1635416666666
-manmad,maize,2015,55,1396,1537,1442,2015-09-01,Nasik,9,maize_manmad,additive,1400.0,1426.121875
-manmad,maize,2015,15818,1139,1404,1285,2015-10-01,Nasik,10,maize_manmad,additive,1401.125,1316.196875
-manmad,maize,2015,23606,1320,1495,1420,2015-11-01,Nasik,11,maize_manmad,additive,1398.875,1415.5177083333333
-manmad,maize,2015,24240,1341,1477,1444,2015-12-01,Nasik,12,maize_manmad,additive,1420.5,1433.1635416666666
-manmad,maize,2016,6626,1383,1471,1451,2016-01-01,Nasik,1,maize_manmad,additive,1437.125,1435.121875
-manmad,maize,2016,2020,1412,1464,1449,2016-02-01,Nasik,2,maize_manmad,additive,1428.375,1480.196875
-manmad,maize,2016,930,1364,1417,1389,2016-03-01,Nasik,3,maize_manmad,additive,1420.375,1384.5177083333333
-manmad,maize,2016,143,1385,1429,1405,2016-04-01,Nasik,4,maize_manmad,additive,1442.5,1394.1635416666666
-manmad,maize,2016,92,1414,1443,1426,2016-05-01,Nasik,5,maize_manmad,additive,1510.75,1410.121875
-manmad,maize,2016,98,1626,1688,1651,2016-06-01,Nasik,6,maize_manmad,additive,1589.875,1682.196875
-manmad,maize,2016,23,1733,1791,1733,2016-07-01,Nasik,7,maize_manmad,additive,1666.0,1728.5177083333333
-manmad,maize,2016,43,1682,1742,1694,2016-08-01,Nasik,8,maize_manmad,additive,1661.5,1683.1635416666666
-manmad,maize,2016,39,1709,1852,1746,2016-09-01,Nasik,9,maize_manmad,additive,1551.875,1730.121875
+manmad,maize,2014,20074,976,1198,1130,2014-11-01,Nasik,11,maize_manmad,multiplicative,1163.625,1126.5253113775464
+manmad,maize,2014,71194,1002,1167,1111,2014-12-01,Nasik,12,maize_manmad,multiplicative,1163.125,1102.0115796443033
+manmad,maize,2015,40116,1143,1255,1214,2015-01-01,Nasik,1,maize_manmad,multiplicative,1194.75,1200.4360414697012
+manmad,maize,2015,21711,1194,1255,1232,2015-02-01,Nasik,2,maize_manmad,multiplicative,1248.5,1260.4096315149595
+manmad,maize,2015,9314,1262,1330,1314,2015-03-01,Nasik,3,maize_manmad,multiplicative,1285.0,1309.9595213717662
+manmad,maize,2015,2799,1324,1372,1357,2015-04-01,Nasik,4,maize_manmad,multiplicative,1294.25,1346.021344354023
+manmad,maize,2015,1414,1213,1300,1260,2015-05-01,Nasik,5,maize_manmad,multiplicative,1306.5,1245.9220858746487
+manmad,maize,2015,1414,1213,1300,1260,2015-05-01,Nasik,5,maize_manmad,multiplicative,1329.5,1289.0553049584814
+manmad,maize,2015,305,1211,1290,1260,2015-06-01,Nasik,6,maize_manmad,multiplicative,1306.5,1245.9220858746487
+manmad,maize,2015,305,1211,1290,1260,2015-06-01,Nasik,6,maize_manmad,multiplicative,1329.5,1289.0553049584814
+manmad,maize,2015,97,1374,1428,1384,2015-07-01,Nasik,7,maize_manmad,multiplicative,1366.5,1379.7442751739152
+manmad,maize,2015,25,1398,1491,1471,2015-08-01,Nasik,8,maize_manmad,multiplicative,1392.375,1459.0990401951126
+manmad,maize,2015,55,1396,1537,1442,2015-09-01,Nasik,9,maize_manmad,multiplicative,1400.0,1425.8886093898757
+manmad,maize,2015,15818,1139,1404,1285,2015-10-01,Nasik,10,maize_manmad,multiplicative,1401.125,1314.631799104483
+manmad,maize,2015,23606,1320,1495,1420,2015-11-01,Nasik,11,maize_manmad,multiplicative,1398.875,1415.633577129306
+manmad,maize,2015,24240,1341,1477,1444,2015-12-01,Nasik,12,maize_manmad,multiplicative,1420.5,1432.317480653802
+manmad,maize,2016,6626,1383,1471,1451,2016-01-01,Nasik,1,maize_manmad,multiplicative,1437.125,1434.788052860409
+manmad,maize,2016,2020,1412,1464,1449,2016-02-01,Nasik,2,maize_manmad,multiplicative,1428.375,1482.4136007022537
+manmad,maize,2016,930,1364,1417,1389,2016-03-01,Nasik,3,maize_manmad,multiplicative,1420.375,1384.7289004454972
+manmad,maize,2016,143,1385,1429,1405,2016-04-01,Nasik,4,maize_manmad,multiplicative,1442.5,1393.6330057607977
+manmad,maize,2016,92,1414,1443,1426,2016-05-01,Nasik,5,maize_manmad,multiplicative,1510.75,1410.0673765533722
+manmad,maize,2016,98,1626,1688,1651,2016-06-01,Nasik,6,maize_manmad,multiplicative,1589.875,1689.0716734019466
+manmad,maize,2016,23,1733,1791,1733,2016-07-01,Nasik,7,maize_manmad,multiplicative,1666.0,1727.6711191303432
+manmad,maize,2016,43,1682,1742,1694,2016-08-01,Nasik,8,maize_manmad,multiplicative,1661.5,1680.2948838140862
+manmad,maize,2016,39,1709,1852,1746,2016-09-01,Nasik,9,maize_manmad,multiplicative,1551.875,1726.4920332834417
 sinner,bajri,2014,1427,1152,1539,1331,2014-11-01,Nasik,11,bajri_sinner,additive,1292.875,1327.240625
 sinner,bajri,2014,836,1052,1496,1239,2014-12-01,Nasik,12,bajri_sinner,additive,1301.375,1218.865625
 sinner,bajri,2015,1143,1159,1558,1353,2015-01-01,Nasik,1,bajri_sinner,additive,1299.375,1342.7822916666667
@@ -538,33 +538,33 @@ shrirampur,bottle gourd,2016,57,905,1105,1005,2016-06-01,Ahmadnagar,6,bottle gou
 shrirampur,bottle gourd,2016,58,768,968,868,2016-07-01,Ahmadnagar,7,bottle gourd_shrirampur,additive,843.375,887.9520833333333
 shrirampur,bottle gourd,2016,100,619,829,724,2016-08-01,Ahmadnagar,8,bottle gourd_shrirampur,additive,719.125,727.1395833333333
 shrirampur,bottle gourd,2016,70,443,643,543,2016-09-01,Ahmadnagar,9,bottle gourd_shrirampur,additive,618.375,557.1604166666667
-shrirampur,flower,2014,149,525,725,625,2014-11-01,Ahmadnagar,11,flower_shrirampur,multiplicative,698.5,619.7873793479037
-shrirampur,flower,2014,136,505,705,605,2014-12-01,Ahmadnagar,12,flower_shrirampur,multiplicative,718.375,589.9294560037222
-shrirampur,flower,2016,173,505,705,605,2016-10-01,Ahmadnagar,10,flower_shrirampur,multiplicative,718.375,589.9294560037222
-shrirampur,flower,2015,156,881,1112,998,2015-01-01,Ahmadnagar,1,flower_shrirampur,multiplicative,680.5,975.3461268187384
-shrirampur,flower,2015,120,450,650,550,2015-02-01,Ahmadnagar,2,flower_shrirampur,multiplicative,655.0,583.3582831925776
-shrirampur,flower,2015,119,413,613,513,2015-03-01,Ahmadnagar,3,flower_shrirampur,multiplicative,588.375,508.72148096875935
-shrirampur,flower,2015,119,413,613,513,2015-03-01,Ahmadnagar,3,flower_shrirampur,multiplicative,576.375,500.22117509075946
-shrirampur,flower,2015,143,413,613,513,2015-04-01,Ahmadnagar,4,flower_shrirampur,multiplicative,588.375,508.72148096875935
-shrirampur,flower,2015,143,413,613,513,2015-04-01,Ahmadnagar,4,flower_shrirampur,multiplicative,576.375,500.22117509075946
-shrirampur,flower,2015,129,457,657,557,2015-05-01,Ahmadnagar,5,flower_shrirampur,multiplicative,671.0,544.356505649336
-shrirampur,flower,2015,105,795,995,895,2015-06-01,Ahmadnagar,6,flower_shrirampur,multiplicative,777.375,949.2830244679217
-shrirampur,flower,2015,117,825,1025,925,2015-07-01,Ahmadnagar,7,flower_shrirampur,multiplicative,827.5,917.2853214348975
-shrirampur,flower,2015,102,838,1067,952,2015-08-01,Ahmadnagar,8,flower_shrirampur,multiplicative,785.375,928.2856894471794
-shrirampur,flower,2015,113,419,619,519,2015-09-01,Ahmadnagar,9,flower_shrirampur,multiplicative,716.75,507.219077974875
-shrirampur,flower,2016,109,419,619,519,2016-11-01,Ahmadnagar,11,flower_shrirampur,multiplicative,716.75,507.219077974875
-shrirampur,flower,2015,140,496,696,596,2015-10-01,Ahmadnagar,10,flower_shrirampur,multiplicative,655.25,632.1482486959568
-shrirampur,flower,2015,104,575,775,675,2015-11-01,Ahmadnagar,11,flower_shrirampur,multiplicative,687.125,669.370369695736
-shrirampur,flower,2015,82,600,820,710,2015-12-01,Ahmadnagar,12,flower_shrirampur,multiplicative,764.375,692.3139070456905
-shrirampur,flower,2016,107,884,1147,1016,2016-01-01,Ahmadnagar,1,flower_shrirampur,multiplicative,805.0,992.9375399276937
-shrirampur,flower,2016,68,617,817,717,2016-02-01,Ahmadnagar,2,flower_shrirampur,multiplicative,869.75,760.4870709983238
-shrirampur,flower,2016,134,773,985,879,2016-03-01,Ahmadnagar,3,flower_shrirampur,multiplicative,906.0,871.6689703148918
-shrirampur,flower,2016,114,904,1143,1024,2016-04-01,Ahmadnagar,4,flower_shrirampur,multiplicative,933.875,998.4921701616719
-shrirampur,flower,2016,115,892,1092,992,2016-05-01,Ahmadnagar,5,flower_shrirampur,multiplicative,994.625,969.4823224490867
-shrirampur,flower,2016,121,864,1064,964,2016-06-01,Ahmadnagar,6,flower_shrirampur,multiplicative,1019.375,1022.4679727229905
-shrirampur,flower,2016,83,982,1247,1118,2016-07-01,Ahmadnagar,7,flower_shrirampur,multiplicative,965.75,1108.67566417753
-shrirampur,flower,2016,99,855,1110,983,2016-08-01,Ahmadnagar,8,flower_shrirampur,multiplicative,872.375,958.5134797548081
-shrirampur,flower,2016,110,504,704,604,2016-09-01,Ahmadnagar,9,flower_shrirampur,multiplicative,752.625,590.2896398782746
+shrirampur,flower,2014,149,525,725,625,2014-11-01,Ahmadnagar,11,flower_shrirampur,additive,698.5,612.95
+shrirampur,flower,2014,136,505,705,605,2014-12-01,Ahmadnagar,12,flower_shrirampur,additive,718.375,580.5333333333333
+shrirampur,flower,2016,173,505,705,605,2016-10-01,Ahmadnagar,10,flower_shrirampur,additive,718.375,580.5333333333333
+shrirampur,flower,2015,156,881,1112,998,2015-01-01,Ahmadnagar,1,flower_shrirampur,additive,680.5,985.325
+shrirampur,flower,2015,120,450,650,550,2015-02-01,Ahmadnagar,2,flower_shrirampur,additive,655.0,599.1916666666667
+shrirampur,flower,2015,119,413,613,513,2015-03-01,Ahmadnagar,3,flower_shrirampur,additive,588.375,500.95
+shrirampur,flower,2015,119,413,613,513,2015-03-01,Ahmadnagar,3,flower_shrirampur,additive,576.375,488.5333333333333
+shrirampur,flower,2015,143,413,613,513,2015-04-01,Ahmadnagar,4,flower_shrirampur,additive,588.375,500.95
+shrirampur,flower,2015,143,413,613,513,2015-04-01,Ahmadnagar,4,flower_shrirampur,additive,576.375,488.5333333333333
+shrirampur,flower,2015,129,457,657,557,2015-05-01,Ahmadnagar,5,flower_shrirampur,additive,671.0,544.325
+shrirampur,flower,2015,105,795,995,895,2015-06-01,Ahmadnagar,6,flower_shrirampur,additive,777.375,944.1916666666667
+shrirampur,flower,2015,117,825,1025,925,2015-07-01,Ahmadnagar,7,flower_shrirampur,additive,827.5,912.95
+shrirampur,flower,2015,102,838,1067,952,2015-08-01,Ahmadnagar,8,flower_shrirampur,additive,785.375,927.5333333333333
+shrirampur,flower,2015,113,419,619,519,2015-09-01,Ahmadnagar,9,flower_shrirampur,additive,716.75,506.325
+shrirampur,flower,2016,109,419,619,519,2016-11-01,Ahmadnagar,11,flower_shrirampur,additive,716.75,506.325
+shrirampur,flower,2015,140,496,696,596,2015-10-01,Ahmadnagar,10,flower_shrirampur,additive,655.25,645.1916666666667
+shrirampur,flower,2015,104,575,775,675,2015-11-01,Ahmadnagar,11,flower_shrirampur,additive,687.125,662.95
+shrirampur,flower,2015,82,600,820,710,2015-12-01,Ahmadnagar,12,flower_shrirampur,additive,764.375,685.5333333333333
+shrirampur,flower,2016,107,884,1147,1016,2016-01-01,Ahmadnagar,1,flower_shrirampur,additive,805.0,1003.325
+shrirampur,flower,2016,68,617,817,717,2016-02-01,Ahmadnagar,2,flower_shrirampur,additive,869.75,766.1916666666667
+shrirampur,flower,2016,134,773,985,879,2016-03-01,Ahmadnagar,3,flower_shrirampur,additive,906.0,866.95
+shrirampur,flower,2016,114,904,1143,1024,2016-04-01,Ahmadnagar,4,flower_shrirampur,additive,933.875,999.5333333333333
+shrirampur,flower,2016,115,892,1092,992,2016-05-01,Ahmadnagar,5,flower_shrirampur,additive,994.625,979.325
+shrirampur,flower,2016,121,864,1064,964,2016-06-01,Ahmadnagar,6,flower_shrirampur,additive,1019.375,1013.1916666666667
+shrirampur,flower,2016,83,982,1247,1118,2016-07-01,Ahmadnagar,7,flower_shrirampur,additive,965.75,1105.95
+shrirampur,flower,2016,99,855,1110,983,2016-08-01,Ahmadnagar,8,flower_shrirampur,additive,872.375,958.5333333333333
+shrirampur,flower,2016,110,504,704,604,2016-09-01,Ahmadnagar,9,flower_shrirampur,additive,752.625,591.325
 mumbai,pineapple,2014,31340,1156,2338,1747,2014-11-01,Mumbai,11,pineapple_mumbai,additive,1745.75,1738.8359375
 mumbai,pineapple,2015,27800,1000,2019,1510,2015-01-01,Mumbai,1,pineapple_mumbai,additive,1672.625,1585.2421875
 mumbai,pineapple,2015,26010,1000,2208,1604,2015-02-01,Mumbai,2,pineapple_mumbai,additive,1648.875,1589.3359375
@@ -744,29 +744,29 @@ nagpur,spinach,2016,7870,1267,1608,1523,2016-06-01,Nagpur,6,spinach_nagpur,multi
 nagpur,spinach,2016,5243,1391,1845,1733,2016-07-01,Nagpur,7,spinach_nagpur,multiplicative,1397.75,1615.1404949032387
 nagpur,spinach,2016,5790,1122,1543,1439,2016-08-01,Nagpur,8,spinach_nagpur,multiplicative,1582.75,1402.0298670732234
 nagpur,spinach,2016,4740,900,1244,1161,2016-09-01,Nagpur,9,spinach_nagpur,multiplicative,1579.875,1216.3739645705966
-rahuri-vambori,bajri,2014,312,1420,1620,1520,2014-11-01,Ahmadnagar,11,bajri_rahuri-vambori,additive,1483.25,1507.1541666666667
-rahuri-vambori,bajri,2014,173,1331,1539,1478,2014-12-01,Ahmadnagar,12,bajri_rahuri-vambori,additive,1458.375,1460.7375
-rahuri-vambori,bajri,2015,303,1273,1465,1402,2015-01-01,Ahmadnagar,1,bajri_rahuri-vambori,additive,1414.25,1419.2583333333334
-rahuri-vambori,bajri,2015,175,1279,1425,1374,2015-02-01,Ahmadnagar,2,bajri_rahuri-vambori,additive,1378.0,1386.85
-rahuri-vambori,bajri,2015,79,1212,1343,1286,2015-03-01,Ahmadnagar,3,bajri_rahuri-vambori,additive,1370.625,1273.1541666666667
-rahuri-vambori,bajri,2015,87,1373,1474,1422,2015-04-01,Ahmadnagar,4,bajri_rahuri-vambori,additive,1381.625,1404.7375
-rahuri-vambori,bajri,2015,18,1300,1498,1399,2015-05-01,Ahmadnagar,5,bajri_rahuri-vambori,additive,1410.25,1416.2583333333334
-rahuri-vambori,bajri,2015,195,1393,1507,1465,2015-06-01,Ahmadnagar,6,bajri_rahuri-vambori,additive,1426.625,1477.85
-rahuri-vambori,bajri,2015,43,1398,1445,1424,2015-07-01,Ahmadnagar,7,bajri_rahuri-vambori,additive,1435.875,1411.1541666666667
-rahuri-vambori,bajri,2015,21,1402,1427,1415,2015-08-01,Ahmadnagar,8,bajri_rahuri-vambori,additive,1442.125,1397.7375
-rahuri-vambori,bajri,2015,56,1433,1512,1480,2015-09-01,Ahmadnagar,9,bajri_rahuri-vambori,additive,1471.0,1497.2583333333334
-rahuri-vambori,bajri,2015,69,1369,1499,1434,2015-10-01,Ahmadnagar,10,bajri_rahuri-vambori,additive,1517.0,1446.85
-rahuri-vambori,bajri,2015,3,1686,1686,1686,2015-11-01,Ahmadnagar,11,bajri_rahuri-vambori,additive,1527.0,1673.1541666666667
-rahuri-vambori,bajri,2015,64,1479,1576,1521,2015-12-01,Ahmadnagar,12,bajri_rahuri-vambori,additive,1532.875,1503.7375
-rahuri-vambori,bajri,2016,43,1373,1526,1454,2016-01-01,Ahmadnagar,1,bajri_rahuri-vambori,additive,1514.5,1471.2583333333334
-rahuri-vambori,bajri,2016,15,1506,1508,1507,2016-02-01,Ahmadnagar,2,bajri_rahuri-vambori,additive,1514.25,1519.85
-rahuri-vambori,bajri,2016,16,1450,1482,1466,2016-03-01,Ahmadnagar,3,bajri_rahuri-vambori,additive,1580.125,1453.1541666666667
-rahuri-vambori,bajri,2016,20,1716,1763,1739,2016-04-01,Ahmadnagar,4,bajri_rahuri-vambori,additive,1654.875,1721.7375
-rahuri-vambori,bajri,2016,14,1763,1763,1763,2016-05-01,Ahmadnagar,5,bajri_rahuri-vambori,additive,1742.125,1780.2583333333334
-rahuri-vambori,bajri,2016,29,1760,1832,1796,2016-06-01,Ahmadnagar,6,bajri_rahuri-vambori,additive,1791.0,1808.85
-rahuri-vambori,bajri,2016,13,1829,1922,1875,2016-07-01,Ahmadnagar,7,bajri_rahuri-vambori,additive,1767.0,1862.1541666666667
-rahuri-vambori,bajri,2016,179,1590,1831,1721,2016-08-01,Ahmadnagar,8,bajri_rahuri-vambori,additive,1706.5,1703.7375
-rahuri-vambori,bajri,2016,1177,1302,1770,1589,2016-09-01,Ahmadnagar,9,bajri_rahuri-vambori,additive,1622.375,1606.2583333333334
+rahuri-vambori,bajri,2014,312,1420,1620,1520,2014-11-01,Ahmadnagar,11,bajri_rahuri-vambori,multiplicative,1483.25,1509.5562806255018
+rahuri-vambori,bajri,2014,173,1331,1539,1478,2014-12-01,Ahmadnagar,12,bajri_rahuri-vambori,multiplicative,1458.375,1461.1597867348505
+rahuri-vambori,bajri,2015,303,1273,1465,1402,2015-01-01,Ahmadnagar,1,bajri_rahuri-vambori,multiplicative,1414.25,1417.4075710148084
+rahuri-vambori,bajri,2015,175,1279,1425,1374,2015-02-01,Ahmadnagar,2,bajri_rahuri-vambori,multiplicative,1378.0,1384.4852513309897
+rahuri-vambori,bajri,2015,79,1212,1343,1286,2015-03-01,Ahmadnagar,3,bajri_rahuri-vambori,multiplicative,1370.625,1277.1640637397338
+rahuri-vambori,bajri,2015,87,1373,1474,1422,2015-04-01,Ahmadnagar,4,bajri_rahuri-vambori,multiplicative,1381.625,1405.7978462361011
+rahuri-vambori,bajri,2015,18,1300,1498,1399,2015-05-01,Ahmadnagar,5,bajri_rahuri-vambori,multiplicative,1410.25,1414.374601889955
+rahuri-vambori,bajri,2015,195,1393,1507,1465,2015-06-01,Ahmadnagar,6,bajri_rahuri-vambori,multiplicative,1426.625,1476.1796893740175
+rahuri-vambori,bajri,2015,43,1398,1445,1424,2015-07-01,Ahmadnagar,7,bajri_rahuri-vambori,multiplicative,1435.875,1414.2158839544177
+rahuri-vambori,bajri,2015,21,1402,1427,1415,2015-08-01,Ahmadnagar,8,bajri_rahuri-vambori,multiplicative,1442.125,1398.8776036737574
+rahuri-vambori,bajri,2015,56,1433,1512,1480,2015-09-01,Ahmadnagar,9,bajri_rahuri-vambori,multiplicative,1471.0,1496.264768260996
+rahuri-vambori,bajri,2015,69,1369,1499,1434,2015-10-01,Ahmadnagar,10,bajri_rahuri-vambori,multiplicative,1517.0,1444.9431225681508
+rahuri-vambori,bajri,2015,3,1686,1686,1686,2015-11-01,Ahmadnagar,11,bajri_rahuri-vambori,multiplicative,1527.0,1674.4157165359186
+rahuri-vambori,bajri,2015,64,1479,1576,1521,2015-12-01,Ahmadnagar,12,bajri_rahuri-vambori,multiplicative,1532.875,1503.6698481892474
+rahuri-vambori,bajri,2016,43,1373,1526,1454,2016-01-01,Ahmadnagar,1,bajri_rahuri-vambori,multiplicative,1514.5,1469.9790358456003
+rahuri-vambori,bajri,2016,15,1506,1508,1507,2016-02-01,Ahmadnagar,2,bajri_rahuri-vambori,multiplicative,1514.25,1518.50019924003
+rahuri-vambori,bajri,2016,16,1450,1482,1466,2016-03-01,Ahmadnagar,3,bajri_rahuri-vambori,multiplicative,1580.125,1455.927307498017
+rahuri-vambori,bajri,2016,20,1716,1763,1739,2016-04-01,Ahmadnagar,4,bajri_rahuri-vambori,multiplicative,1654.875,1719.1859737022362
+rahuri-vambori,bajri,2016,14,1763,1763,1763,2016-05-01,Ahmadnagar,5,bajri_rahuri-vambori,multiplicative,1742.125,1782.3748557054973
+rahuri-vambori,bajri,2016,29,1760,1832,1796,2016-06-01,Ahmadnagar,6,bajri_rahuri-vambori,multiplicative,1791.0,1809.7056123656896
+rahuri-vambori,bajri,2016,13,1829,1922,1875,2016-07-01,Ahmadnagar,7,bajri_rahuri-vambori,multiplicative,1767.0,1862.1171224821157
+rahuri-vambori,bajri,2016,179,1590,1831,1721,2016-08-01,Ahmadnagar,8,bajri_rahuri-vambori,multiplicative,1706.5,1701.3910642562096
+rahuri-vambori,bajri,2016,1177,1302,1770,1589,2016-09-01,Ahmadnagar,9,bajri_rahuri-vambori,multiplicative,1622.375,1606.4626464640019
 sangamner,bajri,2014,223,1338,1730,1514,2014-11-01,Ahmadnagar,11,bajri_sangamner,additive,1487.5,1521.0135416666667
 sangamner,bajri,2014,547,1341,1666,1535,2014-12-01,Ahmadnagar,12,bajri_sangamner,additive,1503.125,1496.9927083333334
 sangamner,bajri,2015,159,1300,1715,1507,2015-01-01,Ahmadnagar,1,bajri_sangamner,additive,1512.25,1504.1802083333334
@@ -1108,29 +1108,29 @@ shegaon,soybean,2016,1560,3156,3771,3590,2016-06-01,Buldhana,6,soybean_shegaon,m
 shegaon,soybean,2016,459,3167,3574,3439,2016-07-01,Buldhana,7,soybean_shegaon,multiplicative,3401.25,3461.724426998802
 shegaon,soybean,2016,460,3090,3393,3260,2016-08-01,Buldhana,8,soybean_shegaon,multiplicative,3238.25,3269.24141993
 shegaon,soybean,2016,201,2896,3122,3030,2016-09-01,Buldhana,9,soybean_shegaon,multiplicative,3066.75,3018.357010478787
-solapur,green chilli,2014,1318,1163,2704,1888,2014-11-01,Solapur,11,green chilli_solapur,multiplicative,2035.0,1865.9648517541245
-solapur,green chilli,2014,965,1331,2659,1898,2014-12-01,Solapur,12,green chilli_solapur,multiplicative,2039.0,1919.612122397908
-solapur,green chilli,2015,1273,1256,2857,2011,2015-01-01,Solapur,1,green chilli_solapur,multiplicative,2106.5,2122.4692948615557
-solapur,green chilli,2015,1023,1740,3165,2410,2015-02-01,Solapur,2,green chilli_solapur,multiplicative,2169.125,2290.9435819338646
-solapur,green chilli,2015,1249,1617,3037,2326,2015-03-01,Solapur,3,green chilli_solapur,multiplicative,2189.5,2298.852884099626
-solapur,green chilli,2015,1506,1383,2650,1961,2015-04-01,Solapur,4,green chilli_solapur,multiplicative,2212.125,1983.3294900012106
-solapur,green chilli,2015,1858,1522,2833,2111,2015-05-01,Solapur,5,green chilli_solapur,multiplicative,2179.875,2228.012273223642
-solapur,green chilli,2015,2549,1732,3320,2491,2015-06-01,Solapur,6,green chilli_solapur,multiplicative,2126.125,2367.942100662762
-solapur,green chilli,2015,2582,1238,2887,1987,2015-07-01,Solapur,7,green chilli_solapur,multiplicative,2013.625,1963.8094070102995
-solapur,green chilli,2015,1991,1214,2776,1870,2015-08-01,Solapur,8,green chilli_solapur,multiplicative,1770.5,1891.293292351996
-solapur,green chilli,2015,1647,804,2059,1302,2015-09-01,Solapur,9,green chilli_solapur,multiplicative,1507.125,1374.1695782743639
-solapur,green chilli,2015,1864,835,1958,1355,2015-10-01,Solapur,10,green chilli_solapur,multiplicative,1394.25,1288.0616404648906
-solapur,green chilli,2015,1767,707,1549,1016,2015-11-01,Solapur,11,green chilli_solapur,multiplicative,1569.5,1004.1421024270077
-solapur,green chilli,2015,3344,1587,2306,1938,2015-12-01,Solapur,12,green chilli_solapur,multiplicative,1943.5,1960.0675938920683
-solapur,green chilli,2016,1281,2214,3191,2636,2016-01-01,Solapur,1,green chilli_solapur,multiplicative,2457.5,2782.112909624595
-solapur,green chilli,2016,1623,2454,3617,3013,2016-02-01,Solapur,2,green chilli_solapur,multiplicative,2944.0,2864.1547769156573
-solapur,green chilli,2016,1679,2899,4119,3470,2016-03-01,Solapur,3,green chilli_solapur,multiplicative,3447.5,3429.501078170981
-solapur,green chilli,2016,1540,2162,4449,3376,2016-04-01,Solapur,4,green chilli_solapur,multiplicative,3867.125,3414.4417941071324
-solapur,green chilli,2016,7452,3278,6978,5226,2016-05-01,Solapur,5,green chilli_solapur,multiplicative,4137.625,5515.676049202631
-solapur,green chilli,2016,14430,2560,4916,3780,2016-06-01,Solapur,6,green chilli_solapur,multiplicative,4258.25,3593.264207348551
-solapur,green chilli,2016,1520,3406,6389,4867,2016-07-01,Solapur,7,green chilli_solapur,multiplicative,3655.625,4810.196469008117
-solapur,green chilli,2016,2046,1572,3980,2944,2016-08-01,Solapur,8,green chilli_solapur,multiplicative,2719.625,2977.522701970201
-solapur,green chilli,2016,1840,451,1343,837,2016-09-01,Solapur,9,green chilli_solapur,multiplicative,1817.875,883.3947288906625
+solapur,green chilli,2014,1318,1163,2704,1888,2014-11-01,Solapur,11,green chilli_solapur,additive,2035.0,1788.440625
+solapur,green chilli,2014,965,1331,2659,1898,2014-12-01,Solapur,12,green chilli_solapur,additive,2039.0,1999.7947916666667
+solapur,green chilli,2015,1273,1256,2857,2011,2015-01-01,Solapur,1,green chilli_solapur,additive,2106.5,2032.565625
+solapur,green chilli,2015,1023,1740,3165,2410,2015-02-01,Solapur,2,green chilli_solapur,additive,2169.125,2386.1989583333334
+solapur,green chilli,2015,1249,1617,3037,2326,2015-03-01,Solapur,3,green chilli_solapur,additive,2189.5,2226.440625
+solapur,green chilli,2015,1506,1383,2650,1961,2015-04-01,Solapur,4,green chilli_solapur,additive,2212.125,2062.7947916666667
+solapur,green chilli,2015,1858,1522,2833,2111,2015-05-01,Solapur,5,green chilli_solapur,additive,2179.875,2132.565625
+solapur,green chilli,2015,2549,1732,3320,2491,2015-06-01,Solapur,6,green chilli_solapur,additive,2126.125,2467.1989583333334
+solapur,green chilli,2015,2582,1238,2887,1987,2015-07-01,Solapur,7,green chilli_solapur,additive,2013.625,1887.440625
+solapur,green chilli,2015,1991,1214,2776,1870,2015-08-01,Solapur,8,green chilli_solapur,additive,1770.5,1971.7947916666667
+solapur,green chilli,2015,1647,804,2059,1302,2015-09-01,Solapur,9,green chilli_solapur,additive,1507.125,1323.565625
+solapur,green chilli,2015,1864,835,1958,1355,2015-10-01,Solapur,10,green chilli_solapur,additive,1394.25,1331.1989583333334
+solapur,green chilli,2015,1767,707,1549,1016,2015-11-01,Solapur,11,green chilli_solapur,additive,1569.5,916.440625
+solapur,green chilli,2015,3344,1587,2306,1938,2015-12-01,Solapur,12,green chilli_solapur,additive,1943.5,2039.7947916666667
+solapur,green chilli,2016,1281,2214,3191,2636,2016-01-01,Solapur,1,green chilli_solapur,additive,2457.5,2657.565625
+solapur,green chilli,2016,1623,2454,3617,3013,2016-02-01,Solapur,2,green chilli_solapur,additive,2944.0,2989.1989583333334
+solapur,green chilli,2016,1679,2899,4119,3470,2016-03-01,Solapur,3,green chilli_solapur,additive,3447.5,3370.440625
+solapur,green chilli,2016,1540,2162,4449,3376,2016-04-01,Solapur,4,green chilli_solapur,additive,3867.125,3477.7947916666667
+solapur,green chilli,2016,7452,3278,6978,5226,2016-05-01,Solapur,5,green chilli_solapur,additive,4137.625,5247.565625
+solapur,green chilli,2016,14430,2560,4916,3780,2016-06-01,Solapur,6,green chilli_solapur,additive,4258.25,3756.1989583333334
+solapur,green chilli,2016,1520,3406,6389,4867,2016-07-01,Solapur,7,green chilli_solapur,additive,3655.625,4767.440625
+solapur,green chilli,2016,2046,1572,3980,2944,2016-08-01,Solapur,8,green chilli_solapur,additive,2719.625,3045.7947916666667
+solapur,green chilli,2016,1840,451,1343,837,2016-09-01,Solapur,9,green chilli_solapur,additive,1817.875,858.565625
 pandharpur,green chilli,2014,323,1423,3492,2715,2014-11-01,Solapur,11,green chilli_pandharpur,multiplicative,2779.0,2677.692010124542
 pandharpur,green chilli,2014,296,1382,3100,2141,2014-12-01,Solapur,12,green chilli_pandharpur,multiplicative,2896.25,2209.7275671980515
 pandharpur,green chilli,2015,303,1900,4544,3417,2015-01-01,Solapur,1,green chilli_pandharpur,multiplicative,2965.125,3361.25550029859
@@ -1295,29 +1295,29 @@ chopda,maize,2016,550,1543,1584,1576,2016-06-01,Jalgaon,6,maize_chopda,additive,
 chopda,maize,2016,2,1500,1500,1500,2016-07-01,Jalgaon,7,maize_chopda,additive,1542.875,1505.4354166666667
 chopda,maize,2016,12,1683,1710,1700,2016-08-01,Jalgaon,8,maize_chopda,additive,1495.25,1661.8729166666667
 chopda,maize,2016,963,1339,1681,1428,2016-09-01,Jalgaon,9,maize_chopda,additive,1396.75,1439.6229166666667
-chopda,bajri,2014,1083,1192,1297,1285,2014-11-01,Jalgaon,11,bajri_chopda,multiplicative,1275.625,1274.5903603711738
-chopda,bajri,2014,158,1156,1236,1232,2014-12-01,Jalgaon,12,bajri_chopda,multiplicative,1257.0,1207.818259621018
-chopda,bajri,2015,78,1225,1259,1259,2015-01-01,Jalgaon,1,bajri_chopda,multiplicative,1245.125,1253.691841662579
-chopda,bajri,2015,126,1167,1218,1218,2015-02-01,Jalgaon,2,bajri_chopda,multiplicative,1239.25,1258.813344318678
-chopda,bajri,2015,67,1140,1276,1258,2015-03-01,Jalgaon,3,bajri_chopda,multiplicative,1218.625,1247.8090843166822
-chopda,bajri,2015,3643,1091,1244,1212,2015-04-01,Jalgaon,4,bajri_chopda,multiplicative,1190.375,1188.210820341456
-chopda,bajri,2015,19462,1053,1143,1114,2015-05-01,Jalgaon,5,bajri_chopda,multiplicative,1177.875,1109.303186347985
-chopda,bajri,2015,1849,1078,1159,1137,2015-06-01,Jalgaon,6,bajri_chopda,multiplicative,1187.375,1175.0991563960072
-chopda,bajri,2015,828,1205,1250,1239,2015-07-01,Jalgaon,7,bajri_chopda,multiplicative,1228.625,1228.9630011672252
-chopda,bajri,2015,552,1275,1313,1307,2015-08-01,Jalgaon,8,bajri_chopda,multiplicative,1281.375,1281.3461569193753
-chopda,bajri,2015,595,1278,1375,1349,2015-09-01,Jalgaon,9,bajri_chopda,multiplicative,1337.75,1343.312386340603
-chopda,bajri,2015,305,1267,1353,1324,2015-10-01,Jalgaon,10,bajri_chopda,multiplicative,1395.75,1368.3652445631606
-chopda,bajri,2015,337,1371,1520,1503,2015-11-01,Jalgaon,11,bajri_chopda,multiplicative,1443.875,1490.8243670333652
-chopda,bajri,2015,73,1412,1508,1507,2015-12-01,Jalgaon,12,bajri_chopda,multiplicative,1491.875,1477.420549714995
-chopda,bajri,2016,160,1484,1535,1534,2016-01-01,Jalgaon,1,bajri_chopda,multiplicative,1531.375,1527.53239484543
-chopda,bajri,2016,80,1483,1525,1523,2016-02-01,Jalgaon,2,bajri_chopda,multiplicative,1575.875,1574.0334346447837
-chopda,bajri,2016,272,1582,1623,1620,2016-03-01,Jalgaon,3,bajri_chopda,multiplicative,1635.5,1606.8765632694954
-chopda,bajri,2016,3210,1634,1783,1746,2016-04-01,Jalgaon,4,bajri_chopda,multiplicative,1688.75,1711.7294491057608
-chopda,bajri,2016,7372,1649,1792,1772,2016-05-01,Jalgaon,5,bajri_chopda,multiplicative,1719.625,1764.5289463273155
-chopda,bajri,2016,1200,1653,1736,1711,2016-06-01,Jalgaon,6,bajri_chopda,multiplicative,1730.125,1768.3330313048095
-chopda,bajri,2016,40,1567,1752,1679,2016-07-01,Jalgaon,7,bajri_chopda,multiplicative,1717.5,1665.3986109441253
-chopda,bajri,2016,172,1697,1781,1771,2016-08-01,Jalgaon,8,bajri_chopda,multiplicative,1661.25,1736.2387482052131
-chopda,bajri,2016,243,1515,1679,1646,2016-09-01,Jalgaon,9,bajri_chopda,multiplicative,1588.75,1639.0601837780819
+chopda,bajri,2014,1083,1192,1297,1285,2014-11-01,Jalgaon,11,bajri_chopda,additive,1275.625,1277.778125
+chopda,bajri,2014,158,1156,1236,1232,2014-12-01,Jalgaon,12,bajri_chopda,additive,1257.0,1201.4239583333333
+chopda,bajri,2015,78,1225,1259,1259,2015-01-01,Jalgaon,1,bajri_chopda,additive,1245.125,1250.2364583333333
+chopda,bajri,2015,126,1167,1218,1218,2015-02-01,Jalgaon,2,bajri_chopda,additive,1239.25,1264.5614583333333
+chopda,bajri,2015,67,1140,1276,1258,2015-03-01,Jalgaon,3,bajri_chopda,additive,1218.625,1250.778125
+chopda,bajri,2015,3643,1091,1244,1212,2015-04-01,Jalgaon,4,bajri_chopda,additive,1190.375,1181.4239583333333
+chopda,bajri,2015,19462,1053,1143,1114,2015-05-01,Jalgaon,5,bajri_chopda,additive,1177.875,1105.2364583333333
+chopda,bajri,2015,1849,1078,1159,1137,2015-06-01,Jalgaon,6,bajri_chopda,additive,1187.375,1183.5614583333333
+chopda,bajri,2015,828,1205,1250,1239,2015-07-01,Jalgaon,7,bajri_chopda,additive,1228.625,1231.778125
+chopda,bajri,2015,552,1275,1313,1307,2015-08-01,Jalgaon,8,bajri_chopda,additive,1281.375,1276.4239583333333
+chopda,bajri,2015,595,1278,1375,1349,2015-09-01,Jalgaon,9,bajri_chopda,additive,1337.75,1340.2364583333333
+chopda,bajri,2015,305,1267,1353,1324,2015-10-01,Jalgaon,10,bajri_chopda,additive,1395.75,1370.5614583333333
+chopda,bajri,2015,337,1371,1520,1503,2015-11-01,Jalgaon,11,bajri_chopda,additive,1443.875,1495.778125
+chopda,bajri,2015,73,1412,1508,1507,2015-12-01,Jalgaon,12,bajri_chopda,additive,1491.875,1476.4239583333333
+chopda,bajri,2016,160,1484,1535,1534,2016-01-01,Jalgaon,1,bajri_chopda,additive,1531.375,1525.2364583333333
+chopda,bajri,2016,80,1483,1525,1523,2016-02-01,Jalgaon,2,bajri_chopda,additive,1575.875,1569.5614583333333
+chopda,bajri,2016,272,1582,1623,1620,2016-03-01,Jalgaon,3,bajri_chopda,additive,1635.5,1612.778125
+chopda,bajri,2016,3210,1634,1783,1746,2016-04-01,Jalgaon,4,bajri_chopda,additive,1688.75,1715.4239583333333
+chopda,bajri,2016,7372,1649,1792,1772,2016-05-01,Jalgaon,5,bajri_chopda,additive,1719.625,1763.2364583333333
+chopda,bajri,2016,1200,1653,1736,1711,2016-06-01,Jalgaon,6,bajri_chopda,additive,1730.125,1757.5614583333333
+chopda,bajri,2016,40,1567,1752,1679,2016-07-01,Jalgaon,7,bajri_chopda,additive,1717.5,1671.778125
+chopda,bajri,2016,172,1697,1781,1771,2016-08-01,Jalgaon,8,bajri_chopda,additive,1661.25,1740.4239583333333
+chopda,bajri,2016,243,1515,1679,1646,2016-09-01,Jalgaon,9,bajri_chopda,additive,1588.75,1637.2364583333333
 nagbhid,paddy-unhusked,2014,19297,2044,2271,2158,2014-11-01,Chandrapur,11,paddy-unhusked_nagbhid,multiplicative,2139.25,2169.784843696736
 nagbhid,paddy-unhusked,2014,68040,1661,2078,1870,2014-12-01,Chandrapur,12,paddy-unhusked_nagbhid,multiplicative,2001.125,1889.506765564243
 nagbhid,paddy-unhusked,2015,42699,1673,2048,1860,2015-01-01,Chandrapur,1,paddy-unhusked_nagbhid,multiplicative,1877.875,1826.1891417515615
@@ -1986,29 +1986,29 @@ aurangabad,pomegranate,2016,511,1504,3752,2628,2016-06-01,Aurangabad,6,pomegrana
 aurangabad,pomegranate,2016,1033,1145,4477,2834,2016-07-01,Aurangabad,7,pomegranate_aurangabad,additive,2756.125,2929.079166666667
 aurangabad,pomegranate,2016,1440,743,5030,2869,2016-08-01,Aurangabad,8,pomegranate_aurangabad,additive,2970.125,2905.579166666667
 aurangabad,pomegranate,2016,1165,738,5396,3106,2016-09-01,Aurangabad,9,pomegranate_aurangabad,additive,3141.5,3152.0375
-aurangabad,bitter gourd,2014,545,1490,2076,1783,2014-11-01,Aurangabad,11,bitter gourd_aurangabad,additive,2193.625,1644.6395833333333
-aurangabad,bitter gourd,2014,196,2605,3280,2963,2014-12-01,Aurangabad,12,bitter gourd_aurangabad,additive,2644.375,2932.61875
-aurangabad,bitter gourd,2015,61,3150,3900,3525,2015-01-01,Aurangabad,1,bitter gourd_aurangabad,additive,3115.75,3761.36875
-aurangabad,bitter gourd,2015,9,3250,3750,3500,2015-02-01,Aurangabad,2,bitter gourd_aurangabad,additive,3184.125,3432.3729166666667
-aurangabad,bitter gourd,2015,113,2872,3461,3167,2015-03-01,Aurangabad,3,bitter gourd_aurangabad,additive,2906.125,3028.639583333333
-aurangabad,bitter gourd,2015,204,1774,2468,2126,2015-04-01,Aurangabad,4,bitter gourd_aurangabad,additive,2606.75,2095.61875
-aurangabad,bitter gourd,2015,197,1859,2435,2138,2015-05-01,Aurangabad,5,bitter gourd_aurangabad,additive,2325.25,2374.36875
-aurangabad,bitter gourd,2015,294,2078,2917,2492,2015-06-01,Aurangabad,6,bitter gourd_aurangabad,additive,2152.875,2424.3729166666667
-aurangabad,bitter gourd,2015,407,1545,2300,1923,2015-07-01,Aurangabad,7,bitter gourd_aurangabad,additive,1995.5,1784.6395833333333
-aurangabad,bitter gourd,2015,426,1700,2277,1991,2015-08-01,Aurangabad,8,bitter gourd_aurangabad,additive,1740.25,1960.61875
-aurangabad,bitter gourd,2015,631,877,1150,1014,2015-09-01,Aurangabad,9,bitter gourd_aurangabad,additive,1576.75,1250.36875
-aurangabad,bitter gourd,2015,488,1284,1864,1574,2015-10-01,Aurangabad,10,bitter gourd_aurangabad,additive,1580.125,1506.3729166666667
-aurangabad,bitter gourd,2015,259,1219,1848,1533,2015-11-01,Aurangabad,11,bitter gourd_aurangabad,additive,1891.875,1394.6395833333333
-aurangabad,bitter gourd,2015,148,2115,2700,2408,2015-12-01,Aurangabad,12,bitter gourd_aurangabad,additive,2349.75,2377.61875
-aurangabad,bitter gourd,2016,53,2818,3391,3091,2016-01-01,Aurangabad,1,bitter gourd_aurangabad,additive,2833.0,3327.36875
-aurangabad,bitter gourd,2016,44,2830,3490,3160,2016-02-01,Aurangabad,2,bitter gourd_aurangabad,additive,3246.5,3092.3729166666667
-aurangabad,bitter gourd,2016,34,3313,4313,3813,2016-03-01,Aurangabad,3,bitter gourd_aurangabad,additive,3275.875,3674.639583333333
-aurangabad,bitter gourd,2016,73,2929,3943,3436,2016-04-01,Aurangabad,4,bitter gourd_aurangabad,additive,3091.375,3405.61875
-aurangabad,bitter gourd,2016,529,1983,2613,2298,2016-05-01,Aurangabad,5,bitter gourd_aurangabad,additive,2927.0,2534.36875
-aurangabad,bitter gourd,2016,969,2042,2913,2477,2016-06-01,Aurangabad,6,bitter gourd_aurangabad,additive,2622.0,2409.3729166666667
-aurangabad,bitter gourd,2016,438,2808,3554,3181,2016-07-01,Aurangabad,7,bitter gourd_aurangabad,additive,2211.75,3042.639583333333
-aurangabad,bitter gourd,2016,712,1233,1963,1628,2016-08-01,Aurangabad,8,bitter gourd_aurangabad,additive,1842.125,1597.61875
-aurangabad,bitter gourd,2016,714,708,940,824,2016-09-01,Aurangabad,9,bitter gourd_aurangabad,additive,1435.375,1060.36875
+aurangabad,bitter gourd,2014,545,1490,2076,1783,2014-11-01,Aurangabad,11,bitter gourd_aurangabad,multiplicative,2193.625,1684.5456950634396
+aurangabad,bitter gourd,2014,196,2605,3280,2963,2014-12-01,Aurangabad,12,bitter gourd_aurangabad,multiplicative,2644.375,2881.3285493292274
+aurangabad,bitter gourd,2015,61,3150,3900,3525,2015-01-01,Aurangabad,1,bitter gourd_aurangabad,multiplicative,3115.75,4064.8951785773047
+aurangabad,bitter gourd,2015,9,3250,3750,3500,2015-02-01,Aurangabad,2,bitter gourd_aurangabad,multiplicative,3184.125,3345.9898185457687
+aurangabad,bitter gourd,2015,113,2872,3461,3167,2015-03-01,Aurangabad,3,bitter gourd_aurangabad,multiplicative,2906.125,2992.123508842352
+aurangabad,bitter gourd,2015,204,1774,2468,2126,2015-04-01,Aurangabad,4,bitter gourd_aurangabad,multiplicative,2606.75,2067.399424864643
+aurangabad,bitter gourd,2015,197,1859,2435,2138,2015-05-01,Aurangabad,5,bitter gourd_aurangabad,multiplicative,2325.25,2465.459827460504
+aurangabad,bitter gourd,2015,294,2078,2917,2492,2015-06-01,Aurangabad,6,bitter gourd_aurangabad,multiplicative,2152.875,2382.344750804587
+aurangabad,bitter gourd,2015,407,1545,2300,1923,2015-07-01,Aurangabad,7,bitter gourd_aurangabad,multiplicative,1995.5,1816.8151270930982
+aurangabad,bitter gourd,2015,426,1700,2277,1991,2015-08-01,Aurangabad,8,bitter gourd_aurangabad,multiplicative,1740.25,1936.1205338219684
+aurangabad,bitter gourd,2015,631,877,1150,1014,2015-09-01,Aurangabad,9,bitter gourd_aurangabad,multiplicative,1576.75,1169.3060173269184
+aurangabad,bitter gourd,2015,488,1284,1864,1574,2015-10-01,Aurangabad,10,bitter gourd_aurangabad,multiplicative,1580.125,1504.7394212545828
+aurangabad,bitter gourd,2015,259,1219,1848,1533,2015-11-01,Aurangabad,11,bitter gourd_aurangabad,multiplicative,1891.875,1448.3502807247633
+aurangabad,bitter gourd,2015,148,2115,2700,2408,2015-12-01,Aurangabad,12,bitter gourd_aurangabad,multiplicative,2349.75,2341.626441709342
+aurangabad,bitter gourd,2016,53,2818,3391,3091,2016-01-01,Aurangabad,1,bitter gourd_aurangabad,multiplicative,2833.0,3564.4229778673616
+aurangabad,bitter gourd,2016,44,2830,3490,3160,2016-02-01,Aurangabad,2,bitter gourd_aurangabad,multiplicative,3246.5,3020.9508076013226
+aurangabad,bitter gourd,2016,34,3313,4313,3813,2016-03-01,Aurangabad,3,bitter gourd_aurangabad,multiplicative,3275.875,3602.4524594934915
+aurangabad,bitter gourd,2016,73,2929,3943,3436,2016-04-01,Aurangabad,4,bitter gourd_aurangabad,multiplicative,3091.375,3341.2908860935627
+aurangabad,bitter gourd,2016,529,1983,2613,2298,2016-05-01,Aurangabad,5,bitter gourd_aurangabad,multiplicative,2927.0,2649.9657079065664
+aurangabad,bitter gourd,2016,969,2042,2913,2477,2016-06-01,Aurangabad,6,bitter gourd_aurangabad,multiplicative,2622.0,2368.004794439391
+aurangabad,bitter gourd,2016,438,2808,3554,3181,2016-07-01,Aurangabad,7,bitter gourd_aurangabad,multiplicative,2211.75,3005.3504520453175
+aurangabad,bitter gourd,2016,712,1233,1963,1628,2016-08-01,Aurangabad,8,bitter gourd_aurangabad,multiplicative,1842.125,1583.1261823516647
+aurangabad,bitter gourd,2016,714,708,940,824,2016-09-01,Aurangabad,9,bitter gourd_aurangabad,multiplicative,1435.375,950.2052842972196
 aurangabad,cabbage,2014,2731,303,438,370,2014-11-01,Aurangabad,11,cabbage_aurangabad,additive,556.875,311.42395833333336
 aurangabad,cabbage,2014,1925,491,657,574,2014-12-01,Aurangabad,12,cabbage_aurangabad,additive,606.125,633.7364583333333
 aurangabad,cabbage,2015,749,628,939,789,2015-01-01,Aurangabad,1,cabbage_aurangabad,additive,695.875,922.8822916666667
@@ -2252,29 +2252,29 @@ manchar,methi (bhaji),2015,368332,555,2114,1306,2015-09-01,Pune,9,methi (bhaji)_
 manchar,methi (bhaji),2015,587265,680,2405,1678,2015-10-01,Pune,10,methi (bhaji)_manchar,additive,1228.0,1461.640625
 manchar,methi (bhaji),2015,1450254,228,1019,778,2015-11-01,Pune,11,methi (bhaji)_manchar,additive,1232.0,932.4739583333334
 manchar,methi (bhaji),2015,763003,825,1840,1274,2015-12-01,Pune,12,methi (bhaji)_manchar,additive,1039.0,1344.9114583333333
-shirpur,maize,2014,13706,888,1272,1032,2014-11-01,Dhule,11,maize_shirpur,additive,1074.875,1027.2666666666667
-shirpur,maize,2014,8234,928,1266,1041,2014-12-01,Dhule,12,maize_shirpur,additive,1076.0,1044.3291666666667
-shirpur,maize,2015,2670,1088,1215,1153,2015-01-01,Dhule,1,maize_shirpur,additive,1112.25,1123.6
-shirpur,maize,2015,1229,1054,1199,1141,2015-02-01,Dhule,2,maize_shirpur,additive,1144.625,1171.8041666666666
-shirpur,maize,2015,800,1146,1237,1196,2015-03-01,Dhule,3,maize_shirpur,additive,1148.625,1191.2666666666667
-shirpur,maize,2015,4936,1040,1211,1136,2015-04-01,Dhule,4,maize_shirpur,additive,1141.125,1139.3291666666667
-shirpur,maize,2015,10995,881,1141,1090,2015-05-01,Dhule,5,maize_shirpur,additive,1146.25,1060.6
-shirpur,maize,2015,5374,1019,1202,1144,2015-06-01,Dhule,6,maize_shirpur,additive,1168.375,1174.8041666666666
-shirpur,maize,2015,177,1146,1264,1234,2015-07-01,Dhule,7,maize_shirpur,additive,1224.5,1229.2666666666667
-shirpur,maize,2015,128,1247,1297,1275,2015-08-01,Dhule,8,maize_shirpur,additive,1266.875,1278.3291666666667
-shirpur,maize,2015,1072,1316,1461,1400,2015-09-01,Dhule,9,maize_shirpur,additive,1284.0,1370.6
-shirpur,maize,2015,24303,1006,1319,1173,2015-10-01,Dhule,10,maize_shirpur,additive,1312.5,1203.8041666666666
-shirpur,maize,2015,12432,1206,1417,1342,2015-11-01,Dhule,11,maize_shirpur,additive,1325.125,1337.2666666666667
-shirpur,maize,2015,3596,1240,1468,1395,2015-12-01,Dhule,12,maize_shirpur,additive,1339.125,1398.3291666666667
-shirpur,maize,2016,1022,1143,1461,1381,2016-01-01,Dhule,1,maize_shirpur,additive,1349.625,1351.6
-shirpur,maize,2016,2048,1164,1419,1304,2016-02-01,Dhule,2,maize_shirpur,additive,1324.625,1334.8041666666666
-shirpur,maize,2016,3279,1144,1403,1295,2016-03-01,Dhule,3,maize_shirpur,additive,1299.125,1290.2666666666667
-shirpur,maize,2016,20333,1031,1367,1242,2016-04-01,Dhule,4,maize_shirpur,additive,1323.75,1245.3291666666667
-shirpur,maize,2016,25172,1129,1420,1330,2016-05-01,Dhule,5,maize_shirpur,additive,1393.875,1300.6
-shirpur,maize,2016,785,1488,1618,1552,2016-06-01,Dhule,6,maize_shirpur,additive,1481.25,1582.8041666666666
-shirpur,maize,2016,44,1533,1659,1608,2016-07-01,Dhule,7,maize_shirpur,additive,1562.375,1603.2666666666667
-shirpur,maize,2016,93,1550,1658,1628,2016-08-01,Dhule,8,maize_shirpur,additive,1546.125,1631.3291666666667
-shirpur,maize,2016,1255,1448,1716,1593,2016-09-01,Dhule,9,maize_shirpur,additive,1440.625,1563.6
+shirpur,maize,2014,13706,888,1272,1032,2014-11-01,Dhule,11,maize_shirpur,multiplicative,1074.875,1027.8210988430428
+shirpur,maize,2014,8234,928,1266,1041,2014-12-01,Dhule,12,maize_shirpur,multiplicative,1076.0,1044.6540397596575
+shirpur,maize,2015,2670,1088,1215,1153,2015-01-01,Dhule,1,maize_shirpur,multiplicative,1112.25,1127.2283094630172
+shirpur,maize,2015,1229,1054,1199,1141,2015-02-01,Dhule,2,maize_shirpur,multiplicative,1144.625,1168.376012890313
+shirpur,maize,2015,800,1146,1237,1196,2015-03-01,Dhule,3,maize_shirpur,multiplicative,1148.625,1191.1570098994953
+shirpur,maize,2015,4936,1040,1211,1136,2015-04-01,Dhule,4,maize_shirpur,multiplicative,1141.125,1139.987501601317
+shirpur,maize,2015,10995,881,1141,1090,2015-05-01,Dhule,5,maize_shirpur,multiplicative,1146.25,1065.6364764221066
+shirpur,maize,2015,5374,1019,1202,1144,2015-06-01,Dhule,6,maize_shirpur,multiplicative,1168.375,1171.4479918900245
+shirpur,maize,2015,177,1146,1264,1234,2015-07-01,Dhule,7,maize_shirpur,multiplicative,1224.5,1229.003135632088
+shirpur,maize,2015,128,1247,1297,1275,2015-08-01,Dhule,8,maize_shirpur,multiplicative,1266.875,1279.4754089275345
+shirpur,maize,2015,1072,1316,1461,1400,2015-09-01,Dhule,9,maize_shirpur,multiplicative,1284.0,1368.7074009091277
+shirpur,maize,2015,24303,1006,1319,1173,2015-10-01,Dhule,10,maize_shirpur,multiplicative,1312.5,1201.1437888872367
+shirpur,maize,2015,12432,1206,1417,1342,2015-11-01,Dhule,11,maize_shirpur,multiplicative,1325.125,1336.565808766825
+shirpur,maize,2015,3596,1240,1468,1395,2015-12-01,Dhule,12,maize_shirpur,multiplicative,1339.125,1399.89662388542
+shirpur,maize,2016,1022,1143,1461,1381,2016-01-01,Dhule,1,maize_shirpur,multiplicative,1349.625,1350.1320861825038
+shirpur,maize,2016,2048,1164,1419,1304,2016-02-01,Dhule,2,maize_shirpur,multiplicative,1324.625,1335.2868718746433
+shirpur,maize,2016,3279,1144,1403,1295,2016-03-01,Dhule,3,maize_shirpur,multiplicative,1299.125,1289.756126939671
+shirpur,maize,2016,20333,1031,1367,1242,2016-04-01,Dhule,4,maize_shirpur,multiplicative,1323.75,1246.359574814116
+shirpur,maize,2016,25172,1129,1420,1330,2016-05-01,Dhule,5,maize_shirpur,multiplicative,1393.875,1300.2720308636713
+shirpur,maize,2016,785,1488,1618,1552,2016-06-01,Dhule,6,maize_shirpur,multiplicative,1481.25,1589.2371358508026
+shirpur,maize,2016,44,1533,1659,1608,2016-07-01,Dhule,7,maize_shirpur,multiplicative,1562.375,1601.4886888949736
+shirpur,maize,2016,93,1550,1658,1628,2016-08-01,Dhule,8,maize_shirpur,multiplicative,1546.125,1633.714482928648
+shirpur,maize,2016,1255,1448,1716,1593,2016-09-01,Dhule,9,maize_shirpur,multiplicative,1440.625,1557.393492605886
 dhule,soybean,2014,197,3170,3281,3254,2014-11-01,Dhule,11,soybean_dhule,additive,3123.125,3278.6208333333334
 dhule,soybean,2014,142,3041,3130,3114,2014-12-01,Dhule,12,soybean_dhule,additive,3170.5,3150.5375
 dhule,soybean,2015,116,3093,3180,3165,2015-01-01,Dhule,1,soybean_dhule,additive,3164.5,3125.7458333333334
@@ -2639,33 +2639,33 @@ vai,green chilli,2016,300,5818,7182,6709,2016-06-01,Satara,6,green chilli_vai,ad
 vai,green chilli,2016,226,5767,6743,6408,2016-07-01,Satara,7,green chilli_vai,additive,5290.875,6065.63125
 vai,green chilli,2016,168,3633,4313,4171,2016-08-01,Satara,8,green chilli_vai,additive,4140.0,4337.339583333333
 vai,green chilli,2016,273,1605,1964,1863,2016-09-01,Satara,9,green chilli_vai,additive,2895.25,2185.672916666667
-nagpur,bottle gourd,2014,2750,685,885,785,2014-11-01,Nagpur,11,bottle gourd_nagpur,multiplicative,810.0,762.5790881385082
-nagpur,bottle gourd,2014,1450,788,992,890,2014-12-01,Nagpur,12,bottle gourd_nagpur,multiplicative,747.875,850.0518397101305
-nagpur,bottle gourd,2014,1450,788,992,890,2014-12-01,Nagpur,12,bottle gourd_nagpur,multiplicative,872.5,1017.7184333832281
-nagpur,bottle gourd,2015,4430,596,988,890,2015-09-01,Nagpur,9,bottle gourd_nagpur,multiplicative,747.875,850.0518397101305
-nagpur,bottle gourd,2015,4430,596,988,890,2015-09-01,Nagpur,9,bottle gourd_nagpur,multiplicative,872.5,1017.7184333832281
-nagpur,bottle gourd,2015,2550,532,728,630,2015-01-01,Nagpur,1,bottle gourd_nagpur,multiplicative,695.5,720.4074303723975
-nagpur,bottle gourd,2015,2600,465,635,550,2015-02-01,Nagpur,2,bottle gourd_nagpur,multiplicative,642.25,524.2596548750433
-nagpur,bottle gourd,2015,4610,544,733,639,2015-03-01,Nagpur,3,bottle gourd_nagpur,multiplicative,595.125,620.749092128034
-nagpur,bottle gourd,2015,5740,519,700,610,2015-04-01,Nagpur,4,bottle gourd_nagpur,multiplicative,589.5,582.6198002507635
-nagpur,bottle gourd,2015,4550,433,633,533,2015-05-01,Nagpur,5,bottle gourd_nagpur,multiplicative,607.75,609.4875561722029
-nagpur,bottle gourd,2015,5400,480,680,602,2015-06-01,Nagpur,6,bottle gourd_nagpur,multiplicative,645.25,573.8260222450474
-nagpur,bottle gourd,2015,5360,519,804,733,2015-07-01,Nagpur,7,bottle gourd_nagpur,multiplicative,715.625,712.0642950388872
-nagpur,bottle gourd,2015,2840,540,908,816,2015-08-01,Nagpur,8,bottle gourd_nagpur,multiplicative,820.625,779.3733721387264
-nagpur,bottle gourd,2015,4850,792,1225,1085,2015-10-01,Nagpur,10,bottle gourd_nagpur,multiplicative,881.875,1034.2213191625856
-nagpur,bottle gourd,2015,5435,481,735,665,2015-11-01,Nagpur,11,bottle gourd_nagpur,multiplicative,889.375,646.0064886778445
-nagpur,bottle gourd,2015,2405,809,1009,959,2015-12-01,Nagpur,12,bottle gourd_nagpur,multiplicative,831.0,915.9547351483316
-nagpur,bottle gourd,2016,2815,636,886,807,2016-01-01,Nagpur,1,bottle gourd_nagpur,multiplicative,843.25,922.8076131913091
-nagpur,bottle gourd,2016,2455,540,755,701,2016-02-01,Nagpur,2,bottle gourd_nagpur,multiplicative,892.25,668.1927601225552
-nagpur,bottle gourd,2016,2455,540,755,701,2016-02-01,Nagpur,2,bottle gourd_nagpur,multiplicative,974.25,801.5962042715089
-nagpur,bottle gourd,2016,6400,548,752,701,2016-05-01,Nagpur,5,bottle gourd_nagpur,multiplicative,892.25,668.1927601225552
-nagpur,bottle gourd,2016,6400,548,752,701,2016-05-01,Nagpur,5,bottle gourd_nagpur,multiplicative,974.25,801.5962042715089
-nagpur,bottle gourd,2016,3420,896,1235,1147,2016-03-01,Nagpur,3,bottle gourd_nagpur,multiplicative,867.75,1114.2397631781769
-nagpur,bottle gourd,2016,4790,668,936,869,2016-04-01,Nagpur,4,bottle gourd_nagpur,multiplicative,929.75,829.9944367506779
-nagpur,bottle gourd,2016,5710,1050,1388,1303,2016-06-01,Nagpur,6,bottle gourd_nagpur,multiplicative,935.875,1242.0187823676026
-nagpur,bottle gourd,2016,7330,696,1200,901,2016-07-01,Nagpur,7,bottle gourd_nagpur,multiplicative,916.25,875.2659342838164
-nagpur,bottle gourd,2016,4890,583,1108,808,2016-08-01,Nagpur,8,bottle gourd_nagpur,multiplicative,881.375,771.7324567256015
-nagpur,bottle gourd,2016,2370,455,655,605,2016-09-01,Nagpur,9,bottle gourd_nagpur,multiplicative,840.625,691.8198339290483
+nagpur,bottle gourd,2014,2750,685,885,785,2014-11-01,Nagpur,11,bottle gourd_nagpur,additive,810.0,766.190625
+nagpur,bottle gourd,2014,1450,788,992,890,2014-12-01,Nagpur,12,bottle gourd_nagpur,additive,747.875,858.5239583333333
+nagpur,bottle gourd,2014,1450,788,992,890,2014-12-01,Nagpur,12,bottle gourd_nagpur,additive,872.5,995.1489583333333
+nagpur,bottle gourd,2015,4430,596,988,890,2015-09-01,Nagpur,9,bottle gourd_nagpur,additive,747.875,858.5239583333333
+nagpur,bottle gourd,2015,4430,596,988,890,2015-09-01,Nagpur,9,bottle gourd_nagpur,additive,872.5,995.1489583333333
+nagpur,bottle gourd,2015,2550,532,728,630,2015-01-01,Nagpur,1,bottle gourd_nagpur,additive,695.5,735.1489583333333
+nagpur,bottle gourd,2015,2600,465,635,550,2015-02-01,Nagpur,2,bottle gourd_nagpur,additive,642.25,495.13645833333334
+nagpur,bottle gourd,2015,4610,544,733,639,2015-03-01,Nagpur,3,bottle gourd_nagpur,additive,595.125,620.190625
+nagpur,bottle gourd,2015,5740,519,700,610,2015-04-01,Nagpur,4,bottle gourd_nagpur,additive,589.5,578.5239583333333
+nagpur,bottle gourd,2015,4550,433,633,533,2015-05-01,Nagpur,5,bottle gourd_nagpur,additive,607.75,638.1489583333333
+nagpur,bottle gourd,2015,5400,480,680,602,2015-06-01,Nagpur,6,bottle gourd_nagpur,additive,645.25,547.1364583333333
+nagpur,bottle gourd,2015,5360,519,804,733,2015-07-01,Nagpur,7,bottle gourd_nagpur,additive,715.625,714.190625
+nagpur,bottle gourd,2015,2840,540,908,816,2015-08-01,Nagpur,8,bottle gourd_nagpur,additive,820.625,784.5239583333333
+nagpur,bottle gourd,2015,4850,792,1225,1085,2015-10-01,Nagpur,10,bottle gourd_nagpur,additive,881.875,1030.1364583333334
+nagpur,bottle gourd,2015,5435,481,735,665,2015-11-01,Nagpur,11,bottle gourd_nagpur,additive,889.375,646.190625
+nagpur,bottle gourd,2015,2405,809,1009,959,2015-12-01,Nagpur,12,bottle gourd_nagpur,additive,831.0,927.5239583333333
+nagpur,bottle gourd,2016,2815,636,886,807,2016-01-01,Nagpur,1,bottle gourd_nagpur,additive,843.25,912.1489583333333
+nagpur,bottle gourd,2016,2455,540,755,701,2016-02-01,Nagpur,2,bottle gourd_nagpur,additive,892.25,646.1364583333333
+nagpur,bottle gourd,2016,2455,540,755,701,2016-02-01,Nagpur,2,bottle gourd_nagpur,additive,974.25,806.1489583333333
+nagpur,bottle gourd,2016,6400,548,752,701,2016-05-01,Nagpur,5,bottle gourd_nagpur,additive,892.25,646.1364583333333
+nagpur,bottle gourd,2016,6400,548,752,701,2016-05-01,Nagpur,5,bottle gourd_nagpur,additive,974.25,806.1489583333333
+nagpur,bottle gourd,2016,3420,896,1235,1147,2016-03-01,Nagpur,3,bottle gourd_nagpur,additive,867.75,1128.190625
+nagpur,bottle gourd,2016,4790,668,936,869,2016-04-01,Nagpur,4,bottle gourd_nagpur,additive,929.75,837.5239583333333
+nagpur,bottle gourd,2016,5710,1050,1388,1303,2016-06-01,Nagpur,6,bottle gourd_nagpur,additive,935.875,1248.1364583333334
+nagpur,bottle gourd,2016,7330,696,1200,901,2016-07-01,Nagpur,7,bottle gourd_nagpur,additive,916.25,882.190625
+nagpur,bottle gourd,2016,4890,583,1108,808,2016-08-01,Nagpur,8,bottle gourd_nagpur,additive,881.375,776.5239583333333
+nagpur,bottle gourd,2016,2370,455,655,605,2016-09-01,Nagpur,9,bottle gourd_nagpur,additive,840.625,710.1489583333333
 satara,bitter gourd,2014,102,2800,3316,3064,2014-11-01,Satara,11,bitter gourd_satara,additive,3102.75,2786.235416666667
 satara,bitter gourd,2014,46,3020,3556,3408,2014-12-01,Satara,12,bitter gourd_satara,additive,3355.75,3557.56875
 satara,bitter gourd,2015,26,3656,4344,4000,2015-01-01,Satara,1,bitter gourd_satara,additive,3609.75,4323.214583333333
@@ -2689,29 +2689,29 @@ satara,bitter gourd,2016,61,5375,6271,5825,2016-06-01,Satara,6,bitter gourd_sata
 satara,bitter gourd,2016,67,4944,6028,5486,2016-07-01,Satara,7,bitter gourd_satara,additive,4367.75,5208.235416666666
 satara,bitter gourd,2016,277,2615,3346,2981,2016-08-01,Satara,8,bitter gourd_satara,additive,3369.5,3130.56875
 satara,bitter gourd,2016,386,1068,1514,1291,2016-09-01,Satara,9,bitter gourd_satara,additive,2316.0,1614.2145833333334
-satara,capsicum,2014,109,2262,4071,2514,2014-11-01,Satara,11,capsicum_satara,additive,2497.5,2407.2947916666667
-satara,capsicum,2014,136,2652,3261,2954,2014-12-01,Satara,12,capsicum_satara,additive,2756.0,2923.315625
-satara,capsicum,2015,105,2706,3206,2956,2015-01-01,Satara,1,capsicum_satara,additive,2921.875,3267.815625
-satara,capsicum,2015,152,2881,3452,3167,2015-02-01,Satara,2,capsicum_satara,additive,2834.875,2992.5739583333334
-satara,capsicum,2015,286,2452,2967,2707,2015-03-01,Satara,3,capsicum_satara,additive,2574.625,2600.2947916666667
-satara,capsicum,2015,270,1761,2387,2065,2015-04-01,Satara,4,capsicum_satara,additive,2344.375,2034.315625
-satara,capsicum,2015,333,1522,2092,1763,2015-05-01,Satara,5,capsicum_satara,additive,2199.0,2074.815625
-satara,capsicum,2015,322,2227,2818,2518,2015-06-01,Satara,6,capsicum_satara,additive,2128.875,2343.5739583333334
-satara,capsicum,2015,323,1932,2455,2193,2015-07-01,Satara,7,capsicum_satara,additive,2052.625,2086.2947916666667
-satara,capsicum,2015,414,1744,2292,2018,2015-08-01,Satara,8,capsicum_satara,additive,1898.625,1987.315625
-satara,capsicum,2015,461,963,1438,1200,2015-09-01,Satara,9,capsicum_satara,additive,1717.125,1511.815625
-satara,capsicum,2015,403,1595,2102,1849,2015-10-01,Satara,10,capsicum_satara,additive,1676.125,1674.5739583333334
-satara,capsicum,2015,442,1140,1670,1410,2015-11-01,Satara,11,capsicum_satara,additive,1924.0,1303.2947916666667
-satara,capsicum,2015,306,2192,2754,2473,2015-12-01,Satara,12,capsicum_satara,additive,2146.125,2442.315625
-satara,capsicum,2016,271,2457,3000,2728,2016-01-01,Satara,1,capsicum_satara,additive,2288.25,3039.815625
-satara,capsicum,2016,280,1739,2457,2098,2016-02-01,Satara,2,capsicum_satara,additive,2417.25,1923.5739583333334
-satara,capsicum,2016,266,1981,2615,2298,2016-03-01,Satara,3,capsicum_satara,additive,2535.375,2191.2947916666667
-satara,capsicum,2016,358,2188,3046,2617,2016-04-01,Satara,4,capsicum_satara,additive,2947.5,2586.315625
-satara,capsicum,2016,275,3192,3865,3529,2016-05-01,Satara,5,capsicum_satara,additive,3632.25,3840.815625
-satara,capsicum,2016,241,4077,5154,4594,2016-06-01,Satara,6,capsicum_satara,additive,4132.875,4419.573958333333
-satara,capsicum,2016,377,4675,5875,5280,2016-07-01,Satara,7,capsicum_satara,additive,3981.0,5173.294791666666
-satara,capsicum,2016,596,3200,4080,3640,2016-08-01,Satara,8,capsicum_satara,additive,3293.625,3609.315625
-satara,capsicum,2016,700,1087,1509,1291,2016-09-01,Satara,9,capsicum_satara,additive,2382.75,1602.815625
+satara,capsicum,2014,109,2262,4071,2514,2014-11-01,Satara,11,capsicum_satara,multiplicative,2497.5,2468.8128958986513
+satara,capsicum,2014,136,2652,3261,2954,2014-12-01,Satara,12,capsicum_satara,multiplicative,2756.0,2868.432795988576
+satara,capsicum,2015,105,2706,3206,2956,2015-01-01,Satara,1,capsicum_satara,multiplicative,2921.875,3389.1750280175675
+satara,capsicum,2015,152,2881,3452,3167,2015-02-01,Satara,2,capsicum_satara,multiplicative,2834.875,2933.283235028679
+satara,capsicum,2015,286,2452,2967,2707,2015-03-01,Satara,3,capsicum_satara,multiplicative,2574.625,2658.34387796247
+satara,capsicum,2015,270,1761,2387,2065,2015-04-01,Satara,4,capsicum_satara,multiplicative,2344.375,2005.1840635465164
+satara,capsicum,2015,333,1522,2092,1763,2015-05-01,Satara,5,capsicum_satara,multiplicative,2199.0,2021.3516828129134
+satara,capsicum,2015,322,2227,2818,2518,2015-06-01,Satara,6,capsicum_satara,multiplicative,2128.875,2332.1778294291803
+satara,capsicum,2015,323,1932,2455,2193,2015-07-01,Satara,7,capsicum_satara,multiplicative,2052.625,2153.5826096681553
+satara,capsicum,2015,414,1744,2292,2018,2015-08-01,Satara,8,capsicum_satara,multiplicative,1898.625,1959.5454916401309
+satara,capsicum,2015,461,963,1438,1200,2015-09-01,Satara,9,capsicum_satara,multiplicative,1717.125,1375.849131806861
+satara,capsicum,2015,403,1595,2102,1849,2015-10-01,Satara,10,capsicum_satara,multiplicative,1676.125,1712.5483743504983
+satara,capsicum,2015,442,1140,1670,1410,2015-11-01,Satara,11,capsicum_satara,multiplicative,1924.0,1384.6563974610576
+satara,capsicum,2015,306,2192,2754,2473,2015-12-01,Satara,12,capsicum_satara,multiplicative,2146.125,2401.365709031736
+satara,capsicum,2016,271,2457,3000,2728,2016-01-01,Satara,1,capsicum_satara,multiplicative,2288.25,3127.763692974264
+satara,capsicum,2016,280,1739,2457,2098,2016-02-01,Satara,2,capsicum_satara,multiplicative,2417.25,1943.1727903663307
+satara,capsicum,2016,266,1981,2615,2298,2016-03-01,Satara,3,capsicum_satara,multiplicative,2535.375,2256.6953201173833
+satara,capsicum,2016,358,2188,3046,2617,2016-04-01,Satara,4,capsicum_satara,multiplicative,2947.5,2541.1945250853432
+satara,capsicum,2016,275,3192,3865,3529,2016-05-01,Satara,5,capsicum_satara,multiplicative,3632.25,4046.1429884553436
+satara,capsicum,2016,241,4077,5154,4594,2016-06-01,Satara,6,capsicum_satara,multiplicative,4132.875,4254.97416536841
+satara,capsicum,2016,377,4675,5875,5280,2016-07-01,Satara,7,capsicum_satara,multiplicative,3981.0,5185.096296875449
+satara,capsicum,2016,596,3200,4080,3640,2016-08-01,Satara,8,capsicum_satara,multiplicative,3293.625,3534.5617391328424
+satara,capsicum,2016,700,1087,1509,1291,2016-09-01,Satara,9,capsicum_satara,multiplicative,2382.75,1480.184357635548
 satara,green chilli,2014,622,1981,2735,2354,2014-11-01,Satara,11,green chilli_satara,additive,2443.875,2222.33125
 satara,green chilli,2014,645,1778,2263,1983,2014-12-01,Satara,12,green chilli_satara,additive,2524.5,1997.0604166666667
 satara,green chilli,2015,431,2452,3119,2783,2015-01-01,Satara,1,green chilli_satara,additive,2759.5,2822.45625
@@ -2826,29 +2826,29 @@ jintur,soybean,2016,985,3410,3742,3649,2016-06-01,Parbhani,6,soybean_jintur,mult
 jintur,soybean,2016,178,3378,3592,3522,2016-07-01,Parbhani,7,soybean_jintur,multiplicative,3482.125,3555.7100443741624
 jintur,soybean,2016,257,3180,3392,3336,2016-08-01,Parbhani,8,soybean_jintur,multiplicative,3296.375,3336.9836375292657
 jintur,soybean,2016,279,3146,3224,3177,2016-09-01,Parbhani,9,soybean_jintur,multiplicative,3070.25,3150.7415382120043
-anajngaon surji,soybean,2014,82500,2817,3257,3141,2014-11-01,Amaravathi,11,soybean_anajngaon surji,multiplicative,3075.625,3185.7785450470387
-anajngaon surji,soybean,2014,28425,3002,3237,3117,2014-12-01,Amaravathi,12,soybean_anajngaon surji,multiplicative,3107.875,3101.726661506202
-anajngaon surji,soybean,2015,8310,3014,3270,3142,2015-01-01,Amaravathi,1,soybean_anajngaon surji,multiplicative,3128.125,3150.201938313068
-anajngaon surji,soybean,2015,6330,2979,3273,3145,2015-02-01,Amaravathi,2,soybean_anajngaon surji,multiplicative,3147.75,3108.520749469986
-anajngaon surji,soybean,2015,3480,2960,3187,3076,2015-03-01,Amaravathi,3,soybean_anajngaon surji,multiplicative,3234.0,3119.8518957544384
-anajngaon surji,soybean,2015,1323,3183,3506,3339,2015-04-01,Amaravathi,4,soybean_anajngaon surji,multiplicative,3319.0,3322.6388587645843
-anajngaon surji,soybean,2015,2000,3433,3825,3610,2015-05-01,Amaravathi,5,soybean_anajngaon surji,multiplicative,3368.375,3619.423614675422
-anajngaon surji,soybean,2015,3147,3256,3450,3357,2015-06-01,Amaravathi,6,soybean_anajngaon surji,multiplicative,3361.625,3318.0617348078677
-anajngaon surji,soybean,2015,1905,3185,3346,3259,2015-07-01,Amaravathi,7,soybean_anajngaon surji,multiplicative,3272.125,3305.4607699166822
-anajngaon surji,soybean,2015,887,2958,3185,3102,2015-08-01,Amaravathi,8,soybean_anajngaon surji,multiplicative,3235.625,3086.8001616914466
-anajngaon surji,soybean,2015,1738,2972,3239,3131,2015-09-01,Amaravathi,9,soybean_anajngaon surji,multiplicative,3283.25,3139.1732236977136
-anajngaon surji,soybean,2015,14214,3229,3800,3544,2015-10-01,Amaravathi,10,soybean_anajngaon surji,multiplicative,3336.0,3502.892698289867
-anajngaon surji,soybean,2015,7609,3165,3698,3453,2015-11-01,Amaravathi,11,soybean_anajngaon surji,multiplicative,3391.875,3502.2264616515204
-anajngaon surji,soybean,2015,4460,3189,3532,3330,2015-12-01,Amaravathi,12,soybean_anajngaon surji,multiplicative,3391.125,3313.682958875731
-anajngaon surji,soybean,2016,1754,3186,3525,3350,2016-01-01,Amaravathi,1,soybean_anajngaon surji,multiplicative,3339.75,3358.7449055852253
-anajngaon surji,soybean,2016,1357,3029,3548,3319,2016-02-01,Amaravathi,2,soybean_anajngaon surji,multiplicative,3346.125,3280.502501586927
-anajngaon surji,soybean,2016,462,3075,3448,3267,2016-03-01,Amaravathi,3,soybean_anajngaon surji,multiplicative,3388.75,3313.574819060387
-anajngaon surji,soybean,2016,260,3339,3811,3567,2016-04-01,Amaravathi,4,soybean_anajngaon surji,multiplicative,3420.5,3549.5216559488686
-anajngaon surji,soybean,2016,872,3250,3667,3454,2016-05-01,Amaravathi,5,soybean_anajngaon surji,multiplicative,3430.875,3463.0163892213036
-anajngaon surji,soybean,2016,1843,3246,3727,3469,2016-06-01,Amaravathi,6,soybean_anajngaon surji,multiplicative,3374.875,3428.76263272222
-anajngaon surji,soybean,2016,944,2938,3466,3200,2016-07-01,Amaravathi,7,soybean_anajngaon surji,multiplicative,3232.375,3245.6196574818605
-anajngaon surji,soybean,2016,613,2986,3373,3186,2016-08-01,Amaravathi,8,soybean_anajngaon surji,multiplicative,2999.0,3170.388560654078
-anajngaon surji,soybean,2016,791,2445,2927,2695,2016-09-01,Amaravathi,9,soybean_anajngaon surji,multiplicative,2778.75,2702.035080761845
+anajngaon surji,soybean,2014,82500,2817,3257,3141,2014-11-01,Amaravathi,11,soybean_anajngaon surji,additive,3075.625,3188.422916666667
+anajngaon surji,soybean,2014,28425,3002,3237,3117,2014-12-01,Amaravathi,12,soybean_anajngaon surji,additive,3107.875,3103.31875
+anajngaon surji,soybean,2015,8310,3014,3270,3142,2015-01-01,Amaravathi,1,soybean_anajngaon surji,additive,3128.125,3147.485416666667
+anajngaon surji,soybean,2015,6330,2979,3273,3145,2015-02-01,Amaravathi,2,soybean_anajngaon surji,additive,3147.75,3105.772916666667
+anajngaon surji,soybean,2015,3480,2960,3187,3076,2015-03-01,Amaravathi,3,soybean_anajngaon surji,additive,3234.0,3123.422916666667
+anajngaon surji,soybean,2015,1323,3183,3506,3339,2015-04-01,Amaravathi,4,soybean_anajngaon surji,additive,3319.0,3325.31875
+anajngaon surji,soybean,2015,2000,3433,3825,3610,2015-05-01,Amaravathi,5,soybean_anajngaon surji,additive,3368.375,3615.485416666667
+anajngaon surji,soybean,2015,3147,3256,3450,3357,2015-06-01,Amaravathi,6,soybean_anajngaon surji,additive,3361.625,3317.772916666667
+anajngaon surji,soybean,2015,1905,3185,3346,3259,2015-07-01,Amaravathi,7,soybean_anajngaon surji,additive,3272.125,3306.422916666667
+anajngaon surji,soybean,2015,887,2958,3185,3102,2015-08-01,Amaravathi,8,soybean_anajngaon surji,additive,3235.625,3088.31875
+anajngaon surji,soybean,2015,1738,2972,3239,3131,2015-09-01,Amaravathi,9,soybean_anajngaon surji,additive,3283.25,3136.485416666667
+anajngaon surji,soybean,2015,14214,3229,3800,3544,2015-10-01,Amaravathi,10,soybean_anajngaon surji,additive,3336.0,3504.772916666667
+anajngaon surji,soybean,2015,7609,3165,3698,3453,2015-11-01,Amaravathi,11,soybean_anajngaon surji,additive,3391.875,3500.422916666667
+anajngaon surji,soybean,2015,4460,3189,3532,3330,2015-12-01,Amaravathi,12,soybean_anajngaon surji,additive,3391.125,3316.31875
+anajngaon surji,soybean,2016,1754,3186,3525,3350,2016-01-01,Amaravathi,1,soybean_anajngaon surji,additive,3339.75,3355.485416666667
+anajngaon surji,soybean,2016,1357,3029,3548,3319,2016-02-01,Amaravathi,2,soybean_anajngaon surji,additive,3346.125,3279.772916666667
+anajngaon surji,soybean,2016,462,3075,3448,3267,2016-03-01,Amaravathi,3,soybean_anajngaon surji,additive,3388.75,3314.422916666667
+anajngaon surji,soybean,2016,260,3339,3811,3567,2016-04-01,Amaravathi,4,soybean_anajngaon surji,additive,3420.5,3553.31875
+anajngaon surji,soybean,2016,872,3250,3667,3454,2016-05-01,Amaravathi,5,soybean_anajngaon surji,additive,3430.875,3459.485416666667
+anajngaon surji,soybean,2016,1843,3246,3727,3469,2016-06-01,Amaravathi,6,soybean_anajngaon surji,additive,3374.875,3429.772916666667
+anajngaon surji,soybean,2016,944,2938,3466,3200,2016-07-01,Amaravathi,7,soybean_anajngaon surji,additive,3232.375,3247.422916666667
+anajngaon surji,soybean,2016,613,2986,3373,3186,2016-08-01,Amaravathi,8,soybean_anajngaon surji,additive,2999.0,3172.31875
+anajngaon surji,soybean,2016,791,2445,2927,2695,2016-09-01,Amaravathi,9,soybean_anajngaon surji,additive,2778.75,2700.485416666667
 amarawati,soybean,2014,51,3163,3243,3208,2014-12-01,Amaravathi,12,soybean_amarawati,additive,3209.125,3153.866666666667
 amarawati,soybean,2015,60,3196,3296,3263,2015-01-01,Amaravathi,1,soybean_amarawati,additive,3228.5,3228.1583333333333
 amarawati,soybean,2015,45,3219,3280,3248,2015-02-01,Amaravathi,2,soybean_amarawati,additive,3290.75,3283.05
@@ -2871,29 +2871,29 @@ amarawati,soybean,2016,48301,3002,3727,3354,2016-06-01,Amaravathi,6,soybean_amar
 amarawati,soybean,2016,7153,3088,3645,3366,2016-07-01,Amaravathi,7,soybean_amarawati,additive,3326.375,3419.925
 amarawati,soybean,2016,23383,3138,3538,3338,2016-08-01,Amaravathi,8,soybean_amarawati,additive,3189.125,3283.866666666667
 amarawati,soybean,2016,10845,2836,3261,3048,2016-09-01,Amaravathi,9,soybean_amarawati,additive,2997.5,3013.1583333333333
-parbhani,soybean,2014,22921,3193,3297,3253,2014-11-01,Parbhani,11,soybean_parbhani,additive,3177.125,3286.40625
-parbhani,soybean,2014,10941,3125,4309,3196,2014-12-01,Parbhani,12,soybean_parbhani,additive,3193.875,3186.21875
-parbhani,soybean,2015,3188,3143,3235,3203,2015-01-01,Parbhani,1,soybean_parbhani,additive,3203.625,3175.8854166666665
-parbhani,soybean,2015,1269,3157,3230,3202,2015-02-01,Parbhani,2,soybean_parbhani,additive,3237.5,3205.4895833333335
-parbhani,soybean,2015,1071,3133,3196,3174,2015-03-01,Parbhani,3,soybean_parbhani,additive,3351.75,3207.40625
-parbhani,soybean,2015,988,3485,3579,3546,2015-04-01,Parbhani,4,soybean_parbhani,additive,3453.75,3536.21875
-parbhani,soybean,2015,530,3713,3800,3767,2015-05-01,Parbhani,5,soybean_parbhani,additive,3506.625,3739.8854166666665
-parbhani,soybean,2015,760,3390,3488,3454,2015-06-01,Parbhani,6,soybean_parbhani,additive,3481.0,3457.4895833333335
-parbhani,soybean,2015,441,3274,3373,3345,2015-07-01,Parbhani,7,soybean_parbhani,additive,3366.625,3378.40625
-parbhani,soybean,2015,274,3096,3204,3170,2015-08-01,Parbhani,8,soybean_parbhani,additive,3320.5,3160.21875
-parbhani,soybean,2015,356,3148,3269,3228,2015-09-01,Parbhani,9,soybean_parbhani,additive,3378.125,3200.8854166666665
-parbhani,soybean,2015,5299,3508,3698,3624,2015-10-01,Parbhani,10,soybean_parbhani,additive,3464.75,3627.4895833333335
-parbhani,soybean,2015,4010,3505,3697,3636,2015-11-01,Parbhani,11,soybean_parbhani,additive,3560.125,3669.40625
-parbhani,soybean,2015,1263,3464,3610,3572,2015-12-01,Parbhani,12,soybean_parbhani,additive,3597.625,3562.21875
-parbhani,soybean,2016,859,3518,3624,3589,2016-01-01,Parbhani,1,soybean_parbhani,additive,3589.875,3561.8854166666665
-parbhani,soybean,2016,388,3507,3596,3563,2016-02-01,Parbhani,2,soybean_parbhani,additive,3624.375,3566.4895833333335
-parbhani,soybean,2016,472,3558,3679,3635,2016-03-01,Parbhani,3,soybean_parbhani,additive,3682.75,3668.40625
-parbhani,soybean,2016,568,3760,3880,3849,2016-04-01,Parbhani,4,soybean_parbhani,additive,3719.375,3839.21875
-parbhani,soybean,2016,465,3742,3811,3779,2016-05-01,Parbhani,5,soybean_parbhani,additive,3716.125,3751.8854166666665
-parbhani,soybean,2016,438,3601,3700,3666,2016-06-01,Parbhani,6,soybean_parbhani,additive,3648.875,3669.4895833333335
-parbhani,soybean,2016,480,3434,3549,3506,2016-07-01,Parbhani,7,soybean_parbhani,additive,3527.125,3539.40625
-parbhani,soybean,2016,348,3383,3471,3440,2016-08-01,Parbhani,8,soybean_parbhani,additive,3345.25,3430.21875
-parbhani,soybean,2016,182,3161,3242,3214,2016-09-01,Parbhani,9,soybean_parbhani,additive,3139.0,3186.8854166666665
+parbhani,soybean,2014,22921,3193,3297,3253,2014-11-01,Parbhani,11,soybean_parbhani,multiplicative,3177.125,3283.79457971096
+parbhani,soybean,2014,10941,3125,4309,3196,2014-12-01,Parbhani,12,soybean_parbhani,multiplicative,3193.875,3188.1477886339926
+parbhani,soybean,2015,3188,3143,3235,3203,2015-01-01,Parbhani,1,soybean_parbhani,multiplicative,3203.625,3178.243551801335
+parbhani,soybean,2015,1269,3157,3230,3202,2015-02-01,Parbhani,2,soybean_parbhani,multiplicative,3237.5,3204.8027438865065
+parbhani,soybean,2015,1071,3133,3196,3174,2015-03-01,Parbhani,3,soybean_parbhani,multiplicative,3351.75,3204.046724870147
+parbhani,soybean,2015,988,3485,3579,3546,2015-04-01,Parbhani,4,soybean_parbhani,multiplicative,3453.75,3537.2878781277027
+parbhani,soybean,2015,530,3713,3800,3767,2015-05-01,Parbhani,5,soybean_parbhani,multiplicative,3506.625,3737.8843145912047
+parbhani,soybean,2015,760,3390,3488,3454,2015-06-01,Parbhani,6,soybean_parbhani,multiplicative,3481.0,3457.0233221061817
+parbhani,soybean,2015,441,3274,3373,3345,2015-07-01,Parbhani,7,soybean_parbhani,multiplicative,3366.625,3376.665499272414
+parbhani,soybean,2015,274,3096,3204,3170,2015-08-01,Parbhani,8,soybean_parbhani,multiplicative,3320.5,3162.2116677001745
+parbhani,soybean,2015,356,3148,3269,3228,2015-09-01,Parbhani,9,soybean_parbhani,multiplicative,3378.125,3203.050323201595
+parbhani,soybean,2015,5299,3508,3698,3624,2015-10-01,Parbhani,10,soybean_parbhani,multiplicative,3464.75,3627.1721248734225
+parbhani,soybean,2015,4010,3505,3697,3636,2015-11-01,Parbhani,11,soybean_parbhani,multiplicative,3560.125,3670.420255711359
+parbhani,soybean,2015,1263,3464,3610,3572,2015-12-01,Parbhani,12,soybean_parbhani,multiplicative,3597.625,3563.223999061521
+parbhani,soybean,2016,859,3518,3624,3589,2016-01-01,Parbhani,1,soybean_parbhani,multiplicative,3589.875,3561.260102221352
+parbhani,soybean,2016,388,3507,3596,3563,2016-02-01,Parbhani,2,soybean_parbhani,multiplicative,3624.375,3566.118730939295
+parbhani,soybean,2016,472,3558,3679,3635,2016-03-01,Parbhani,3,soybean_parbhani,multiplicative,3682.75,3669.410789194387
+parbhani,soybean,2016,568,3760,3880,3849,2016-04-01,Parbhani,4,soybean_parbhani,multiplicative,3719.375,3839.543441317972
+parbhani,soybean,2016,465,3742,3811,3779,2016-05-01,Parbhani,5,soybean_parbhani,multiplicative,3716.125,3749.7915648633298
+parbhani,soybean,2016,438,3601,3700,3666,2016-06-01,Parbhani,6,soybean_parbhani,multiplicative,3648.875,3669.208887910035
+parbhani,soybean,2016,480,3434,3549,3506,2016-07-01,Parbhani,7,soybean_parbhani,multiplicative,3527.125,3539.1896085049575
+parbhani,soybean,2016,348,3383,3471,3440,2016-08-01,Parbhani,8,soybean_parbhani,multiplicative,3345.25,3431.5483081667508
+parbhani,soybean,2016,182,3161,3242,3214,2016-09-01,Parbhani,9,soybean_parbhani,multiplicative,3139.0,3189.1585312174493
 parbhani,gram,2014,45,2137,2450,2400,2014-10-01,Parbhani,10,gram_parbhani,additive,2664.5,2421.6203125
 parbhani,gram,2014,15,2150,2500,2400,2014-12-01,Parbhani,12,gram_parbhani,additive,2664.5,2421.6203125
 parbhani,gram,2014,107,2200,2451,2325,2014-11-01,Parbhani,11,gram_parbhani,additive,2457.375,2571.1203125
@@ -3388,29 +3388,29 @@ vadgaon peth,ridge gourd,2016,55,3313,5625,5038,2016-06-01,Kolhapur,6,ridge gour
 vadgaon peth,ridge gourd,2016,88,2647,4759,4041,2016-07-01,Kolhapur,7,ridge gourd_vadgaon peth,multiplicative,3631.125,3892.504191189986
 vadgaon peth,ridge gourd,2016,176,1575,3167,2661,2016-08-01,Kolhapur,8,ridge gourd_vadgaon peth,multiplicative,3109.75,2824.901732850373
 vadgaon peth,ridge gourd,2016,57,1214,2321,1914,2016-09-01,Kolhapur,9,ridge gourd_vadgaon peth,multiplicative,2521.25,2198.1260407784994
-shahapur,chavli (shenga ),2014,32,1833,2417,2200,2014-11-01,Thane,11,chavli (shenga )_shahapur,additive,2142.5,2278.5203125
-shahapur,chavli (shenga ),2014,32,1833,2417,2200,2014-11-01,Thane,11,chavli (shenga )_shahapur,additive,2188.625,2095.7703125
-shahapur,chavli (shenga ),2015,33,1791,2418,2200,2015-04-01,Thane,4,chavli (shenga )_shahapur,additive,2142.5,2278.5203125
-shahapur,chavli (shenga ),2015,33,1791,2418,2200,2015-04-01,Thane,4,chavli (shenga )_shahapur,additive,2188.625,2095.7703125
-shahapur,chavli (shenga ),2014,14,2500,2900,2767,2014-12-01,Thane,12,chavli (shenga )_shahapur,additive,2418.25,2662.7703125
-shahapur,chavli (shenga ),2014,14,2500,2900,2767,2014-12-01,Thane,12,chavli (shenga )_shahapur,additive,2932.0,2824.3203125
-shahapur,chavli (shenga ),2016,78,2500,2962,2767,2016-05-01,Thane,5,chavli (shenga )_shahapur,additive,2418.25,2662.7703125
-shahapur,chavli (shenga ),2016,78,2500,2962,2767,2016-05-01,Thane,5,chavli (shenga )_shahapur,additive,2932.0,2824.3203125
-shahapur,chavli (shenga ),2015,107,2306,2975,2756,2015-01-01,Thane,1,chavli (shenga )_shahapur,additive,2572.375,2813.3203125
-shahapur,chavli (shenga ),2015,72,2113,2763,2500,2015-02-01,Thane,2,chavli (shenga )_shahapur,additive,2518.125,2468.3890625
-shahapur,chavli (shenga ),2015,18,1933,2600,2333,2015-03-01,Thane,3,chavli (shenga )_shahapur,additive,2330.625,2411.5203125
-shahapur,chavli (shenga ),2015,45,1467,2060,1823,2015-05-01,Thane,5,chavli (shenga )_shahapur,additive,2129.25,1880.3203125
-shahapur,chavli (shenga ),2015,49,1964,2518,2297,2015-06-01,Thane,6,chavli (shenga )_shahapur,additive,2010.125,2265.3890625
-shahapur,chavli (shenga ),2015,57,1743,2243,2061,2015-07-01,Thane,7,chavli (shenga )_shahapur,additive,1875.125,2139.5203125
-shahapur,chavli (shenga ),2015,95,1143,1733,1519,2015-08-01,Thane,8,chavli (shenga )_shahapur,additive,1764.125,1414.7703125
-shahapur,chavli (shenga ),2015,71,1088,1635,1424,2015-09-01,Thane,9,chavli (shenga )_shahapur,additive,1635.625,1481.3203125
-shahapur,chavli (shenga ),2015,55,1458,2042,1808,2015-10-01,Thane,10,chavli (shenga )_shahapur,additive,1616.5,1776.3890625
-shahapur,chavli (shenga ),2015,37,1089,1789,1522,2015-11-01,Thane,11,chavli (shenga )_shahapur,additive,1774.875,1600.5203125
-shahapur,chavli (shenga ),2015,94,1610,2100,1905,2015-12-01,Thane,12,chavli (shenga )_shahapur,additive,1906.625,1800.7703125
-shahapur,chavli (shenga ),2016,97,1940,2535,2305,2016-01-01,Thane,1,chavli (shenga )_shahapur,additive,2008.375,2362.3203125
-shahapur,chavli (shenga ),2016,40,1738,2163,1981,2016-02-01,Thane,2,chavli (shenga )_shahapur,additive,2247.625,1949.3890625
-shahapur,chavli (shenga ),2016,48,1813,2388,2163,2016-03-01,Thane,3,chavli (shenga )_shahapur,additive,2464.5,2241.5203125
-shahapur,chavli (shenga ),2016,44,2633,3544,3178,2016-04-01,Thane,4,chavli (shenga )_shahapur,additive,2686.25,3073.7703125
+shahapur,chavli (shenga ),2014,32,1833,2417,2200,2014-11-01,Thane,11,chavli (shenga )_shahapur,multiplicative,2142.5,2275.2170927413617
+shahapur,chavli (shenga ),2014,32,1833,2417,2200,2014-11-01,Thane,11,chavli (shenga )_shahapur,multiplicative,2188.625,2130.404918722456
+shahapur,chavli (shenga ),2015,33,1791,2418,2200,2015-04-01,Thane,4,chavli (shenga )_shahapur,multiplicative,2142.5,2275.2170927413617
+shahapur,chavli (shenga ),2015,33,1791,2418,2200,2015-04-01,Thane,4,chavli (shenga )_shahapur,multiplicative,2188.625,2130.404918722456
+shahapur,chavli (shenga ),2014,14,2500,2900,2767,2014-12-01,Thane,12,chavli (shenga )_shahapur,multiplicative,2418.25,2679.4683682295617
+shahapur,chavli (shenga ),2014,14,2500,2900,2767,2014-12-01,Thane,12,chavli (shenga )_shahapur,multiplicative,2932.0,2845.557790459696
+shahapur,chavli (shenga ),2016,78,2500,2962,2767,2016-05-01,Thane,5,chavli (shenga )_shahapur,multiplicative,2418.25,2679.4683682295617
+shahapur,chavli (shenga ),2016,78,2500,2962,2767,2016-05-01,Thane,5,chavli (shenga )_shahapur,multiplicative,2932.0,2845.557790459696
+shahapur,chavli (shenga ),2015,107,2306,2975,2756,2015-01-01,Thane,1,chavli (shenga )_shahapur,multiplicative,2572.375,2834.2454898832393
+shahapur,chavli (shenga ),2015,72,2113,2763,2500,2015-02-01,Thane,2,chavli (shenga )_shahapur,multiplicative,2518.125,2431.909136054568
+shahapur,chavli (shenga ),2015,18,1933,2600,2333,2015-03-01,Thane,3,chavli (shenga )_shahapur,multiplicative,2330.625,2412.764307893453
+shahapur,chavli (shenga ),2015,45,1467,2060,1823,2015-05-01,Thane,5,chavli (shenga )_shahapur,multiplicative,2129.25,1874.7567228073822
+shahapur,chavli (shenga ),2015,49,1964,2518,2297,2015-06-01,Thane,6,chavli (shenga )_shahapur,multiplicative,2010.125,2234.438114206937
+shahapur,chavli (shenga ),2015,57,1743,2243,2061,2015-07-01,Thane,7,chavli (shenga )_shahapur,multiplicative,1875.125,2131.464740063612
+shahapur,chavli (shenga ),2015,95,1143,1733,1519,2015-08-01,Thane,8,chavli (shenga )_shahapur,multiplicative,1764.125,1470.9477597906412
+shahapur,chavli (shenga ),2015,71,1088,1635,1424,2015-09-01,Thane,9,chavli (shenga )_shahapur,multiplicative,1635.625,1464.42872917044
+shahapur,chavli (shenga ),2015,55,1458,2042,1808,2015-10-01,Thane,10,chavli (shenga )_shahapur,multiplicative,1616.5,1758.7566871946635
+shahapur,chavli (shenga ),2015,37,1089,1789,1522,2015-11-01,Thane,11,chavli (shenga )_shahapur,multiplicative,1774.875,1574.0365523419784
+shahapur,chavli (shenga ),2015,94,1610,2100,1905,2015-12-01,Thane,12,chavli (shenga )_shahapur,multiplicative,1906.625,1844.7369864392176
+shahapur,chavli (shenga ),2016,97,1940,2535,2305,2016-01-01,Thane,1,chavli (shenga )_shahapur,multiplicative,2008.375,2370.4411662485004
+shahapur,chavli (shenga ),2016,40,1738,2163,1981,2016-02-01,Thane,2,chavli (shenga )_shahapur,multiplicative,2247.625,1927.0447994096396
+shahapur,chavli (shenga ),2016,48,1813,2388,2163,2016-03-01,Thane,3,chavli (shenga )_shahapur,multiplicative,2464.5,2236.9520779998024
+shahapur,chavli (shenga ),2016,44,2633,3544,3178,2016-04-01,Thane,4,chavli (shenga )_shahapur,multiplicative,2686.25,3077.4667416818024
 nandura,wheat(husked),2014,1241,1399,1538,1482,2014-09-01,Buldhana,9,wheat(husked)_nandura,additive,1445.125,1471.3802083333333
 nandura,wheat(husked),2015,559,1388,1540,1482,2015-01-01,Buldhana,1,wheat(husked)_nandura,additive,1445.125,1471.3802083333333
 nandura,wheat(husked),2014,754,1400,1505,1470,2014-11-01,Buldhana,11,wheat(husked)_nandura,additive,1473.0,1475.6927083333333
@@ -3484,28 +3484,28 @@ jalna,bajri,2016,3242,1567,1875,1707,2016-06-01,Jalna,6,bajri_jalna,additive,174
 jalna,bajri,2016,2292,1670,2018,1822,2016-07-01,Jalna,7,bajri_jalna,additive,1718.5,1782.0104166666667
 jalna,bajri,2016,5084,1581,1880,1710,2016-08-01,Jalna,8,bajri_jalna,additive,1648.625,1680.59375
 jalna,bajri,2016,4515,1443,1731,1535,2016-09-01,Jalna,9,bajri_jalna,additive,1555.625,1546.65625
-bhokardan-pimpalgaon renu,maize,2014,668,1005,1017,1011,2014-12-01,Jalna,12,maize_bhokardan-pimpalgaon renu,multiplicative,1060.75,1007.5105411813925
-bhokardan-pimpalgaon renu,maize,2015,587,1073,1093,1084,2015-01-01,Jalna,1,maize_bhokardan-pimpalgaon renu,multiplicative,1054.5,1047.5695832115184
-bhokardan-pimpalgaon renu,maize,2015,513,1063,1083,1073,2015-02-01,Jalna,2,maize_bhokardan-pimpalgaon renu,multiplicative,1101.75,1113.7730417084454
-bhokardan-pimpalgaon renu,maize,2015,362,1140,1158,1150,2015-03-01,Jalna,3,maize_bhokardan-pimpalgaon renu,multiplicative,1136.75,1151.8793405701101
-bhokardan-pimpalgaon renu,maize,2015,399,1175,1210,1189,2015-04-01,Jalna,4,maize_bhokardan-pimpalgaon renu,multiplicative,1161.5,1184.896175533804
-bhokardan-pimpalgaon renu,maize,2015,417,1178,1193,1186,2015-05-01,Jalna,5,maize_bhokardan-pimpalgaon renu,multiplicative,1188.0,1146.1416288642627
-bhokardan-pimpalgaon renu,maize,2015,182,1154,1188,1169,2015-06-01,Jalna,6,maize_bhokardan-pimpalgaon renu,multiplicative,1213.5,1213.42095597127
-bhokardan-pimpalgaon renu,maize,2015,80,1253,1290,1266,2015-07-01,Jalna,7,maize_bhokardan-pimpalgaon renu,multiplicative,1249.125,1268.0689088363124
-bhokardan-pimpalgaon renu,maize,2015,54,1253,1300,1277,2015-08-01,Jalna,8,maize_bhokardan-pimpalgaon renu,multiplicative,1260.75,1272.5924442024118
-bhokardan-pimpalgaon renu,maize,2015,28,1335,1408,1383,2015-09-01,Jalna,9,maize_bhokardan-pimpalgaon renu,multiplicative,1244.875,1336.5209719386808
-bhokardan-pimpalgaon renu,maize,2015,109,1050,1083,1065,2015-10-01,Jalna,10,maize_bhokardan-pimpalgaon renu,multiplicative,1251.625,1105.4690488532099
-bhokardan-pimpalgaon renu,maize,2015,563,1225,1273,1243,2015-11-01,Jalna,11,maize_bhokardan-pimpalgaon renu,multiplicative,1259.375,1245.0313220249102
-bhokardan-pimpalgaon renu,maize,2015,529,1334,1376,1354,2015-12-01,Jalna,12,maize_bhokardan-pimpalgaon renu,multiplicative,1295.0,1349.3266792874435
-bhokardan-pimpalgaon renu,maize,2016,257,1350,1404,1368,2016-01-01,Jalna,1,maize_bhokardan-pimpalgaon renu,multiplicative,1344.0,1322.0250828721007
-bhokardan-pimpalgaon renu,maize,2016,227,1345,1388,1365,2016-02-01,Jalna,2,maize_bhokardan-pimpalgaon renu,multiplicative,1352.625,1416.8687809245366
-bhokardan-pimpalgaon renu,maize,2016,461,1318,1355,1335,2016-03-01,Jalna,3,maize_bhokardan-pimpalgaon renu,multiplicative,1356.25,1337.181669270519
-bhokardan-pimpalgaon renu,maize,2016,235,1319,1344,1331,2016-04-01,Jalna,4,maize_bhokardan-pimpalgaon renu,multiplicative,1386.875,1326.4060636126937
-bhokardan-pimpalgaon renu,maize,2016,139,1400,1440,1420,2016-05-01,Jalna,5,maize_bhokardan-pimpalgaon renu,multiplicative,1441.875,1372.2774983029115
-bhokardan-pimpalgaon renu,maize,2016,52,1538,1569,1558,2016-06-01,Jalna,6,maize_bhokardan-pimpalgaon renu,multiplicative,1510.125,1617.2026085570901
-bhokardan-pimpalgaon renu,maize,2016,54,1567,1600,1582,2016-07-01,Jalna,7,maize_bhokardan-pimpalgaon renu,multiplicative,1569.75,1584.5853189407949
-bhokardan-pimpalgaon renu,maize,2016,105,1600,1656,1630,2016-08-01,Jalna,8,maize_bhokardan-pimpalgaon renu,multiplicative,1566.0,1624.3740673844409
-bhokardan-pimpalgaon renu,maize,2016,37,1574,1623,1598,2016-09-01,Jalna,9,maize_bhokardan-pimpalgaon renu,multiplicative,1473.875,1544.2953818929948
+bhokardan-pimpalgaon renu,maize,2014,668,1005,1017,1011,2014-12-01,Jalna,12,maize_bhokardan-pimpalgaon renu,additive,1060.75,1005.7770833333333
+bhokardan-pimpalgaon renu,maize,2015,587,1073,1093,1084,2015-01-01,Jalna,1,maize_bhokardan-pimpalgaon renu,additive,1054.5,1040.31875
+bhokardan-pimpalgaon renu,maize,2015,513,1063,1083,1073,2015-02-01,Jalna,2,maize_bhokardan-pimpalgaon renu,additive,1101.75,1117.8895833333333
+bhokardan-pimpalgaon renu,maize,2015,362,1140,1158,1150,2015-03-01,Jalna,3,maize_bhokardan-pimpalgaon renu,additive,1136.75,1154.0145833333333
+bhokardan-pimpalgaon renu,maize,2015,399,1175,1210,1189,2015-04-01,Jalna,4,maize_bhokardan-pimpalgaon renu,additive,1161.5,1183.7770833333334
+bhokardan-pimpalgaon renu,maize,2015,417,1178,1193,1186,2015-05-01,Jalna,5,maize_bhokardan-pimpalgaon renu,additive,1188.0,1142.31875
+bhokardan-pimpalgaon renu,maize,2015,182,1154,1188,1169,2015-06-01,Jalna,6,maize_bhokardan-pimpalgaon renu,additive,1213.5,1213.8895833333333
+bhokardan-pimpalgaon renu,maize,2015,80,1253,1290,1266,2015-07-01,Jalna,7,maize_bhokardan-pimpalgaon renu,additive,1249.125,1270.0145833333333
+bhokardan-pimpalgaon renu,maize,2015,54,1253,1300,1277,2015-08-01,Jalna,8,maize_bhokardan-pimpalgaon renu,additive,1260.75,1271.7770833333334
+bhokardan-pimpalgaon renu,maize,2015,28,1335,1408,1383,2015-09-01,Jalna,9,maize_bhokardan-pimpalgaon renu,additive,1244.875,1339.31875
+bhokardan-pimpalgaon renu,maize,2015,109,1050,1083,1065,2015-10-01,Jalna,10,maize_bhokardan-pimpalgaon renu,additive,1251.625,1109.8895833333333
+bhokardan-pimpalgaon renu,maize,2015,563,1225,1273,1243,2015-11-01,Jalna,11,maize_bhokardan-pimpalgaon renu,additive,1259.375,1247.0145833333333
+bhokardan-pimpalgaon renu,maize,2015,529,1334,1376,1354,2015-12-01,Jalna,12,maize_bhokardan-pimpalgaon renu,additive,1295.0,1348.7770833333334
+bhokardan-pimpalgaon renu,maize,2016,257,1350,1404,1368,2016-01-01,Jalna,1,maize_bhokardan-pimpalgaon renu,additive,1344.0,1324.31875
+bhokardan-pimpalgaon renu,maize,2016,227,1345,1388,1365,2016-02-01,Jalna,2,maize_bhokardan-pimpalgaon renu,additive,1352.625,1409.8895833333333
+bhokardan-pimpalgaon renu,maize,2016,461,1318,1355,1335,2016-03-01,Jalna,3,maize_bhokardan-pimpalgaon renu,additive,1356.25,1339.0145833333333
+bhokardan-pimpalgaon renu,maize,2016,235,1319,1344,1331,2016-04-01,Jalna,4,maize_bhokardan-pimpalgaon renu,additive,1386.875,1325.7770833333334
+bhokardan-pimpalgaon renu,maize,2016,139,1400,1440,1420,2016-05-01,Jalna,5,maize_bhokardan-pimpalgaon renu,additive,1441.875,1376.31875
+bhokardan-pimpalgaon renu,maize,2016,52,1538,1569,1558,2016-06-01,Jalna,6,maize_bhokardan-pimpalgaon renu,additive,1510.125,1602.8895833333333
+bhokardan-pimpalgaon renu,maize,2016,54,1567,1600,1582,2016-07-01,Jalna,7,maize_bhokardan-pimpalgaon renu,additive,1569.75,1586.0145833333333
+bhokardan-pimpalgaon renu,maize,2016,105,1600,1656,1630,2016-08-01,Jalna,8,maize_bhokardan-pimpalgaon renu,additive,1566.0,1624.7770833333334
+bhokardan-pimpalgaon renu,maize,2016,37,1574,1623,1598,2016-09-01,Jalna,9,maize_bhokardan-pimpalgaon renu,additive,1473.875,1554.31875
 bhokardan,maize,2014,2431,966,984,976,2014-11-01,Jalna,11,maize_bhokardan,multiplicative,1083.375,977.2891159493154
 bhokardan,maize,2014,5742,992,1004,1001,2014-12-01,Jalna,12,maize_bhokardan,multiplicative,1038.625,989.9765903387527
 bhokardan,maize,2015,6426,1051,1068,1059,2015-01-01,Jalna,1,maize_bhokardan,multiplicative,1048.375,1024.0317609761082
